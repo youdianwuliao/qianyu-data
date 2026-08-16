@@ -1,0 +1,18 @@
+{
+  "date": "2026-07-17",
+  "count": 1,
+  "hits": 1,
+  "avgConsensus": 100,
+  "details": [
+    {
+      "home": "瓦勒伦加",
+      "away": "奥勒松",
+      "league": "挪威超级联赛",
+      "pred": "胜",
+      "actual": "胜",
+      "score": "3:0",
+      "hit": true
+    }
+  ],
+  "summary": ""
+}
