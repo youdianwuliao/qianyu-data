@@ -1,0 +1,81 @@
+{
+  "date": "20260808",
+  "count": 8,
+  "hits": 4,
+  "avgConsensus": 50,
+  "details": [
+    {
+      "home": "前进之鹰",
+      "away": "威廉二世",
+      "league": "荷兰甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:1",
+      "hit": true
+    },
+    {
+      "home": "吉马良斯",
+      "away": "阿罗卡",
+      "league": "葡萄牙超级联赛",
+      "pred": "平局",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
+    },
+    {
+      "home": "波城FC",
+      "away": "阿纳西",
+      "league": "法国乙级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": true
+    },
+    {
+      "home": "蒙彼利埃",
+      "away": "第戎",
+      "league": "法国乙级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "南特",
+      "away": "圣旺红星",
+      "league": "法国乙级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
+    },
+    {
+      "home": "阿尔克马尔",
+      "away": "海牙",
+      "league": "荷兰甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "格雷米奥",
+      "away": "圣保罗",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "博塔弗戈",
+      "away": "弗鲁米嫩塞",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    }
+  ],
+  "summary": "⚽ 昨日精选复盘 | 08月07日 | 🎉 全部命中！ | ✅ 横滨水手 vs 鹿岛鹿角"
+}
