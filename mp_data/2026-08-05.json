@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-05",
+  "count": 3,
+  "hits": 2,
+  "avgConsensus": 67,
+  "details": [
+    {
+      "home": "弗鲁米嫩塞",
+      "away": "瓦斯科达伽马",
+      "league": "巴西杯",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "1:3",
+      "hit": false
+    },
+    {
+      "home": "奥胡斯",
+      "away": "萨巴赫",
+      "league": "欧洲冠军联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "费内巴切",
+      "away": "格拉茨风暴",
+      "league": "欧洲冠军联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    }
+  ],
+  "summary": ""
+}
