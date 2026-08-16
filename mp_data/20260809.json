@@ -1,0 +1,81 @@
+{
+  "date": "20260809",
+  "count": 8,
+  "hits": 3,
+  "avgConsensus": 38,
+  "details": [
+    {
+      "home": "海伦芬",
+      "away": "特温特",
+      "league": "荷兰甲级联赛",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": false
+    },
+    {
+      "home": "汉坎",
+      "away": "奥勒松",
+      "league": "挪威超级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "AC奥卢",
+      "away": "赫尔辛基",
+      "league": "芬兰超级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": true
+    },
+    {
+      "home": "克里斯蒂安松",
+      "away": "莫尔德",
+      "league": "挪威超级联赛",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": false
+    },
+    {
+      "home": "吉维森特",
+      "away": "里奥阿维",
+      "league": "葡萄牙超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "摩雷伦斯",
+      "away": "布拉加",
+      "league": "葡萄牙超级联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "2:2",
+      "hit": false
+    },
+    {
+      "home": "桑托斯",
+      "away": "巴拉纳竞技",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": false
+    },
+    {
+      "home": "弗拉门戈",
+      "away": "维多利亚",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    }
+  ],
+  "summary": "⚽ 昨日精选复盘 | 08月08日 | ❌ 未中 | ❌ 维京 vs 萨普斯堡"
+}
