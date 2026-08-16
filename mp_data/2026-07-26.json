@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-26",
+  "count": 10,
+  "hits": 4,
+  "avgConsensus": 40,
+  "details": [
+    {
+      "home": "布兰",
+      "away": "瓦勒伦加",
+      "league": "挪威超级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "2:3",
+      "hit": false
+    },
+    {
+      "home": "赫尔辛基",
+      "away": "TPS图尔库",
+      "league": "芬兰超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "哥德堡盖斯",
+      "away": "哈尔姆斯塔德",
+      "league": "瑞典超级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "马尔默",
+      "away": "埃尔夫斯堡",
+      "league": "瑞典超级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": false
+    },
+    {
+      "home": "萨尔普斯堡",
+      "away": "汉坎",
+      "league": "挪威超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "奥斯陆KFUM",
+      "away": "莫尔德",
+      "league": "挪威超级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "2:4",
+      "hit": true
+    },
+    {
+      "home": "桑纳菲尤尔",
+      "away": "博德闪耀",
+      "league": "挪威超级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:3",
+      "hit": true
+    },
+    {
+      "home": "奥勒松",
+      "away": "维京",
+      "league": "挪威超级联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "弗拉门戈",
+      "away": "圣保罗",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "格雷米奥",
+      "away": "弗鲁米嫩塞",
+      "league": "巴西甲级联赛",
+      "pred": "平局",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
