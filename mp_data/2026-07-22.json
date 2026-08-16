@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-22",
+  "count": 9,
+  "hits": 7,
+  "avgConsensus": 78,
+  "details": [
+    {
+      "home": "首尔FC",
+      "away": "浦项制铁",
+      "league": "韩国职业联赛",
+      "pred": "防平",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": true
+    },
+    {
+      "home": "富川FC",
+      "away": "安养FC",
+      "league": "韩国职业联赛",
+      "pred": "平局",
+      "actual": "客胜",
+      "score": "2:3",
+      "hit": true
+    },
+    {
+      "home": "光州FC",
+      "away": "金泉尚武",
+      "league": "韩国职业联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "利勒斯特罗姆",
+      "away": "维京",
+      "league": "挪威超级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": true
+    },
+    {
+      "home": "迈阿密国际",
+      "away": "芝加哥火焰",
+      "league": "美国职业大联盟",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:2",
+      "hit": true
+    },
+    {
+      "home": "沙佩科恩斯",
+      "away": "弗拉门戈",
+      "league": "巴西甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:4",
+      "hit": true
+    },
+    {
+      "home": "圣保罗",
+      "away": "巴拉纳竞技",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": false
+    },
+    {
+      "home": "洛杉矶FC",
+      "away": "皇家盐湖城",
+      "league": "美国职业大联盟",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": true
+    },
+    {
+      "home": "奥莫尼亚",
+      "away": "阿拉木图凯拉特",
+      "league": "欧洲冠军联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    }
+  ],
+  "summary": ""
+}
