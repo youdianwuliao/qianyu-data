@@ -1,0 +1,99 @@
+{
+  "date": "20260811",
+  "count": 10,
+  "hits": 5,
+  "avgConsensus": 50,
+  "details": [
+    {
+      "home": "江原FC",
+      "away": "大阪钢巴",
+      "league": "亚洲冠军精英联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "阿拉木图凯拉特",
+      "away": "索菲亚列夫斯基",
+      "league": "欧洲冠军联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
+    },
+    {
+      "home": "博德闪耀",
+      "away": "圣吉尔联合",
+      "league": "欧洲冠军联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "2:2",
+      "hit": false
+    },
+    {
+      "home": "萨巴赫",
+      "away": "奥胡斯",
+      "league": "欧洲冠军联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:0",
+      "hit": true
+    },
+    {
+      "home": "奈梅亨",
+      "away": "奥林匹亚科斯",
+      "league": "欧洲冠军联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "采列",
+      "away": "亚拉腊",
+      "league": "欧洲冠军联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "布拉迪斯拉发",
+      "away": "米亚尔比",
+      "league": "欧洲冠军联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "格拉茨风暴",
+      "away": "费内巴切",
+      "league": "欧洲冠军联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": true
+    },
+    {
+      "home": "里昂",
+      "away": "布拉格斯巴达",
+      "league": "欧洲冠军联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:0",
+      "hit": true
+    },
+    {
+      "home": "弗鲁米嫩塞",
+      "away": "里瓦达维亚独立",
+      "league": "南美解放者杯",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    }
+  ],
+  "summary": "⚽ 昨日精选复盘 | 08月10日 | ❌ 未中 | ❌ 天狼星 vs 布鲁马波"
+}
