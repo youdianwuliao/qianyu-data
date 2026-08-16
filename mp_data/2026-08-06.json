@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-06",
+  "count": 4,
+  "hits": 0,
+  "avgConsensus": 0,
+  "details": [
+    {
+      "home": "维多利亚",
+      "away": "巴拉纳竞技",
+      "league": "巴西杯",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "4:0",
+      "hit": false
+    },
+    {
+      "home": "库奥皮奥",
+      "away": "克拉约瓦大学",
+      "league": "欧罗巴联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "比亚韦斯托克",
+      "away": "格拉斯哥流浪者",
+      "league": "欧罗巴联赛",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": false
+    },
+    {
+      "home": "塞萨洛尼基",
+      "away": "安德莱赫特",
+      "league": "欧罗巴联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
