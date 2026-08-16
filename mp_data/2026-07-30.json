@@ -1,0 +1,54 @@
+{
+  "date": "2026-07-30",
+  "count": 5,
+  "hits": 3,
+  "avgConsensus": 60,
+  "details": [
+    {
+      "home": "中日德兰",
+      "away": "贝西克塔斯",
+      "league": "欧罗巴联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": true
+    },
+    {
+      "home": "帕福斯",
+      "away": "斯普利特海杜克",
+      "league": "欧罗巴联赛",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "安德莱赫特",
+      "away": "哈马比",
+      "league": "欧罗巴联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": true
+    },
+    {
+      "home": "费伦茨瓦罗斯",
+      "away": "特温特",
+      "league": "欧罗巴联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "2:2",
+      "hit": false
+    },
+    {
+      "home": "科林蒂安",
+      "away": "巴拉纳竞技",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
