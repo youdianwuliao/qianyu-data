@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>日月山河</title>
+<style>
+body{background:#1a1a2e;color:#e0d5c1;display:flex;align-items:center;justify-content:center;height:100vh;margin:0;font-family:"Noto Serif SC",serif}
+.box{text-align:center}h1{font-size:3rem;margin:0 0 1rem;letter-spacing:.5rem}p{font-size:1.2rem;opacity:.7;margin:.5rem 0}.time{font-size:.9rem;opacity:.5;margin-top:2rem}
+</style></head>
+<body><div class="box"><h1>日月山河永在</h1><p>大明江山永在</p><p class="time" id="t"></p></div>
+<script>function r(){var d=new Date();document.getElementById("t").textContent=d.getFullYear()+"年"+(d.getMonth()+1)+"月"+d.getDate()+"日 "+String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).padStart(2,"0")+":"+String(d.getSeconds()).padStart(2,"0")}r();setInterval(r,1000)</script>
+</body></html>
