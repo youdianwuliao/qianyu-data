@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-10",
+  "count": 3,
+  "hits": 0,
+  "avgConsensus": 0,
+  "details": [
+    {
+      "home": "天狼星",
+      "away": "布鲁马波卡纳",
+      "league": "瑞典超级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "2:2",
+      "hit": false
+    },
+    {
+      "home": "韦斯特罗斯",
+      "away": "佐加顿斯",
+      "league": "瑞典超级联赛",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": false
+    },
+    {
+      "home": "圣克拉拉",
+      "away": "葡萄牙国民",
+      "league": "葡萄牙超级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "2:2",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
