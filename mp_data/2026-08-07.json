@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-07",
+  "count": 10,
+  "hits": 5,
+  "avgConsensus": 50,
+  "details": [
+    {
+      "home": "横滨水手",
+      "away": "鹿岛鹿角",
+      "league": "日本职业联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "3:4",
+      "hit": true
+    },
+    {
+      "home": "大阪钢巴",
+      "away": "浦和红钻",
+      "league": "日本职业联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:3",
+      "hit": true
+    },
+    {
+      "home": "塞伊奈约基",
+      "away": "赫尔辛基火花",
+      "league": "芬兰超级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "2:2",
+      "hit": false
+    },
+    {
+      "home": "桑纳菲尤尔",
+      "away": "奥斯陆KFUM",
+      "league": "挪威超级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
+    },
+    {
+      "home": "坎布尔",
+      "away": "SBV精英",
+      "league": "荷兰甲级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:4",
+      "hit": false
+    },
+    {
+      "home": "奥斯",
+      "away": "布雷达",
+      "league": "荷兰乙级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": true
+    },
+    {
+      "home": "埃门",
+      "away": "罗达JC",
+      "league": "荷兰乙级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "波鸿",
+      "away": "柏林赫塔",
+      "league": "德国乙级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
+    },
+    {
+      "home": "米德尔斯堡",
+      "away": "雷克斯汉姆",
+      "league": "英格兰联赛杯",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "埃斯托里尔",
+      "away": "法马利康",
+      "league": "葡萄牙超级联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
