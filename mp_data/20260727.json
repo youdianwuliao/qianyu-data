@@ -1,0 +1,23 @@
+{
+  "date": "20260727",
+  "count": 2,
+  "hits": 1,
+  "avgConsensus": 50,
+  "details": [
+    {
+      "home": "罗森博格",
+      "away": "腓特烈",
+      "pred": "主胜",
+      "score": "4:0",
+      "hit": true
+    },
+    {
+      "home": "赫根",
+      "away": "索尔纳",
+      "pred": "主胜",
+      "score": "0:0",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
