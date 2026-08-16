@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "count": 8,
+  "count": 9,
   "hits": 5,
-  "avgConsensus": 62,
+  "avgConsensus": 56,
   "details": [
     {
       "home": "维塞乌",
@@ -74,6 +74,15 @@
       "pred": "客胜",
       "actual": "主胜",
       "score": "3:2",
+      "hit": false
+    },
+    {
+      "home": "皇家盐湖城",
+      "away": "明尼苏达联",
+      "league": "美国职业大联盟",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
       "hit": false
     }
   ],
