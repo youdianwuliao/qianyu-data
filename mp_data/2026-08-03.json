@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-03",
+  "count": 4,
+  "hits": 3,
+  "avgConsensus": 75,
+  "details": [
+    {
+      "home": "塞伊奈约基",
+      "away": "赫尔辛基",
+      "league": "芬兰超级联赛",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "3:0",
+      "hit": false
+    },
+    {
+      "home": "哈尔姆斯塔德",
+      "away": "天狼星",
+      "league": "瑞典超级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": true
+    },
+    {
+      "home": "佐加顿斯",
+      "away": "韦斯特罗斯",
+      "league": "瑞典超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "6:0",
+      "hit": true
+    },
+    {
+      "home": "巴拉纳竞技",
+      "away": "维多利亚",
+      "league": "巴西杯",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    }
+  ],
+  "summary": ""
+}
