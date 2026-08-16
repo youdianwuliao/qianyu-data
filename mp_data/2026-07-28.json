@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-28",
+  "count": 2,
+  "hits": 0,
+  "avgConsensus": 0,
+  "details": [
+    {
+      "home": "库奥皮奥",
+      "away": "萨巴赫",
+      "league": "欧洲冠军联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": false
+    },
+    {
+      "home": "哈茨",
+      "away": "格拉茨风暴",
+      "league": "欧洲冠军联赛",
+      "pred": "主不败",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
