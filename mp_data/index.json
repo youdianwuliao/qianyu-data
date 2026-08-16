@@ -1,6 +1,6 @@
 {
   "date": "20260816",
-  "updated_at": "2026-08-16 20:19",
+  "updated_at": "2026-08-16 20:21",
   "matches": [
     {
       "league": "荷甲",
@@ -232,8 +232,21 @@
     "all_hit_days": 4,
     "hit_rate": 47,
     "today_pick": {
-      "picks": [],
-      "combo_odds": "?"
+      "picks": [
+        {
+          "league": "荷甲",
+          "home": "费耶诺德",
+          "away": "前进之鹰",
+          "pred": "主胜"
+        },
+        {
+          "league": "荷甲",
+          "home": "特温特",
+          "away": "兹沃勒",
+          "pred": "主胜"
+        }
+      ],
+      "combo_odds": "1.33"
     },
     "yesterday_result": {
       "picks": [
