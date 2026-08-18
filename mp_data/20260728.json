@@ -1,0 +1,23 @@
+{
+  "date": "20260728",
+  "count": 2,
+  "hits": 1,
+  "avgConsensus": 50,
+  "details": [
+    {
+      "home": "罗森博格",
+      "away": "腓特烈",
+      "pred": "",
+      "score": "",
+      "hit": true
+    },
+    {
+      "home": "赫根",
+      "away": "索尔纳",
+      "pred": "",
+      "score": "",
+      "hit": false
+    }
+  ],
+  "summary": "⚽ 昨日精选复盘 | 07月27日 | ✅ 罗森博格 vs 腓特烈 | 方向：主胜 → 赛果：主胜「4:0」"
+}
