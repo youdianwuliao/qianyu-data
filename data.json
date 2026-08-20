@@ -1,6 +1,6 @@
 {
-  "date": "20260819",
-  "updated_at": "2026-08-19 12:35",
+  "date": "20260820",
+  "updated_at": "2026-08-20 12:35",
   "matches": [
     {
       "league": "沙职",
@@ -10,18 +10,18 @@
       "consensus": 59
     },
     {
-      "league": "西甲",
-      "home": "马竞",
-      "away": "马拉加",
+      "league": "欧罗巴",
+      "home": "波兹南",
+      "away": "图恩",
       "pred": "主胜",
-      "consensus": 53
+      "consensus": 45
     },
     {
-      "league": "欧冠",
-      "home": "凯尔特人",
-      "away": "LASK林茨",
+      "league": "欧罗巴",
+      "home": "特拉布宗",
+      "away": "费伦茨",
       "pred": "主胜",
-      "consensus": 43
+      "consensus": 41
     },
     {
       "league": "西甲",
@@ -31,25 +31,25 @@
       "consensus": 41
     },
     {
-      "league": "解放者杯",
-      "home": "波特诺",
-      "away": "帕梅拉斯",
+      "league": "欧罗巴",
+      "home": "米亚尔比",
+      "away": "萨尔茨堡",
       "pred": "客胜",
       "consensus": 40
     },
     {
-      "league": "美职",
-      "home": "纽约红牛",
-      "away": "纳什维尔",
-      "pred": "客胜",
+      "league": "欧罗巴",
+      "home": "贝红星",
+      "away": "比尔森",
+      "pred": "主胜",
       "consensus": 39
     },
     {
-      "league": "欧冠",
-      "home": "布拉迪斯",
-      "away": "采列",
-      "pred": "主胜",
-      "consensus": 38
+      "league": "欧罗巴",
+      "home": "阿拉木图",
+      "away": "安德莱",
+      "pred": "客胜",
+      "consensus": 37
     },
     {
       "league": "解放者杯",
@@ -57,96 +57,167 @@
       "away": "罗萨里奥",
       "pred": "主胜",
       "consensus": 35
-    },
-    {
-      "league": "美职",
-      "home": "科罗拉多",
-      "away": "洛杉矶FC",
-      "pred": "客胜",
-      "consensus": 34
-    },
-    {
-      "league": "韩国杯",
-      "home": "安养FC",
-      "away": "济州SK",
-      "pred": "平局",
-      "consensus": 32
-    },
-    {
-      "league": "欧冠",
-      "home": "奈梅亨",
-      "away": "博德闪耀",
-      "pred": "主胜",
-      "consensus": 29
     }
   ],
   "reviews": [
     {
       "league": "欧冠",
-      "home": "费内巴切",
-      "away": "里昂",
+      "home": "布拉迪斯",
+      "away": "采列",
       "score": "1:1",
       "hit": false,
       "pred": "主胜",
       "actual": "平"
+    },
+    {
+      "league": "欧冠",
+      "home": "奈梅亨",
+      "away": "博德闪耀",
+      "score": "1:3",
+      "hit": false,
+      "pred": "主胜",
+      "actual": "客胜"
+    },
+    {
+      "league": "欧冠",
+      "home": "凯尔特人",
+      "away": "LASK林茨",
+      "score": "3:0",
+      "hit": true,
+      "pred": "主胜",
+      "actual": "主胜"
+    },
+    {
+      "league": "美职",
+      "home": "科罗拉多",
+      "away": "洛杉矶FC",
+      "score": "1:0",
+      "hit": null
+    },
+    {
+      "league": "美职",
+      "home": "纽约红牛",
+      "away": "纳什维尔",
+      "score": "0:1",
+      "hit": true,
+      "pred": "客胜",
+      "actual": "客胜"
+    },
+    {
+      "league": "解放者杯",
+      "home": "波特诺",
+      "away": "帕梅拉斯",
+      "score": "0:1",
+      "hit": true,
+      "pred": "客胜",
+      "actual": "客胜"
+    },
+    {
+      "league": "西甲",
+      "home": "马竞",
+      "away": "马拉加",
+      "score": "2:0",
+      "hit": true,
+      "pred": "主胜",
+      "actual": "主胜"
+    },
+    {
+      "league": "韩国杯",
+      "home": "安养FC",
+      "away": "济州SK",
+      "score": "2:1",
+      "hit": false,
+      "pred": "平局",
+      "actual": "主胜"
+    },
+    {
+      "league": "欧冠",
+      "home": "费内巴切",
+      "away": "里昂",
+      "score": "1:1",
+      "hit": null
     },
     {
       "league": "欧冠",
       "home": "萨迪纳摩",
       "away": "维京",
       "score": "2:2",
-      "hit": false,
-      "pred": "主胜",
-      "actual": "平"
-    },
-    {
-      "league": "欧冠",
-      "home": "索列夫",
-      "away": "雅典AEK",
-      "score": "0:0",
-      "hit": false,
-      "pred": "客胜",
-      "actual": "平"
-    },
-    {
-      "league": "解放者杯",
-      "home": "里独立",
-      "away": "弗鲁米嫩",
-      "score": "1:1",
-      "hit": false,
-      "pred": "主胜",
-      "actual": "平"
-    },
-    {
-      "league": "巴甲",
-      "home": "巴西国际",
-      "away": "里莫",
-      "score": "1:1",
-      "hit": null
-    },
-    {
-      "league": "西甲",
-      "home": "拉科",
-      "away": "埃尔切",
-      "score": "1:1",
-      "hit": null
-    },
-    {
-      "league": "英冠",
-      "home": "加的夫城",
-      "away": "雷克斯",
-      "score": "1:1",
-      "hit": null
-    },
-    {
-      "league": "瑞超",
-      "home": "赫根",
-      "away": "哈尔姆斯",
-      "score": "1:0",
       "hit": null
     }
   ],
   "history": [
+    {
+      "date": "20260819",
+      "count": 7,
+      "hits": 4,
+      "avgConsensus": 57,
+      "details": [
+        {
+          "home": "安养FC",
+          "away": "济州SK",
+          "league": "韩国杯",
+          "pred": "平局",
+          "actual": "主胜",
+          "score": "2:1",
+          "hit": false
+        },
+        {
+          "home": "马德里竞技",
+          "away": "马拉加",
+          "league": "西班牙甲级联赛",
+          "pred": "主胜",
+          "actual": "主胜",
+          "score": "2:0",
+          "hit": true
+        },
+        {
+          "home": "波特诺山丘",
+          "away": "帕尔梅拉斯",
+          "league": "南美解放者杯",
+          "pred": "客胜",
+          "actual": "客胜",
+          "score": "0:1",
+          "hit": true
+        },
+        {
+          "home": "纽约红牛",
+          "away": "纳什维尔",
+          "league": "美国职业大联盟",
+          "pred": "客胜",
+          "actual": "客胜",
+          "score": "0:1",
+          "hit": true
+        },
+        {
+          "home": "凯尔特人",
+          "away": "LASK林茨",
+          "league": "欧洲冠军联赛",
+          "pred": "主胜",
+          "actual": "主胜",
+          "score": "3:0",
+          "hit": true
+        },
+        {
+          "home": "奈梅亨",
+          "away": "博德闪耀",
+          "league": "欧洲冠军联赛",
+          "pred": "主胜",
+          "actual": "客胜",
+          "score": "1:3",
+          "hit": false
+        },
+        {
+          "home": "布拉迪斯拉发",
+          "away": "采列",
+          "league": "欧洲冠军联赛",
+          "pred": "主胜",
+          "actual": "平",
+          "score": "1:1",
+          "hit": false
+        }
+      ],
+      "summary": "⚽ 昨日精选复盘 | 08月18日 | ❌ 未中 | ❌ 萨迪纳摩 vs 维京"
+    },
     {
       "date": "20260818",
       "count": 4,
@@ -1700,6 +1771,78 @@
           "away": "索尔纳",
           "pred": "",
           "score": "",
+          "hit": false
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "date": "2026-08-19",
+      "count": 7,
+      "hits": 4,
+      "avgConsensus": 57,
+      "details": [
+        {
+          "home": "安养FC",
+          "away": "济州SK",
+          "league": "韩国杯",
+          "pred": "平局",
+          "actual": "主胜",
+          "score": "2:1",
+          "hit": false
+        },
+        {
+          "home": "马德里竞技",
+          "away": "马拉加",
+          "league": "西班牙甲级联赛",
+          "pred": "主胜",
+          "actual": "主胜",
+          "score": "2:0",
+          "hit": true
+        },
+        {
+          "home": "波特诺山丘",
+          "away": "帕尔梅拉斯",
+          "league": "南美解放者杯",
+          "pred": "客胜",
+          "actual": "客胜",
+          "score": "0:1",
+          "hit": true
+        },
+        {
+          "home": "纽约红牛",
+          "away": "纳什维尔",
+          "league": "美国职业大联盟",
+          "pred": "客胜",
+          "actual": "客胜",
+          "score": "0:1",
+          "hit": true
+        },
+        {
+          "home": "凯尔特人",
+          "away": "LASK林茨",
+          "league": "欧洲冠军联赛",
+          "pred": "主胜",
+          "actual": "主胜",
+          "score": "3:0",
+          "hit": true
+        },
+        {
+          "home": "奈梅亨",
+          "away": "博德闪耀",
+          "league": "欧洲冠军联赛",
+          "pred": "主胜",
+          "actual": "客胜",
+          "score": "1:3",
+          "hit": false
+        },
+        {
+          "home": "布拉迪斯拉发",
+          "away": "采列",
+          "league": "欧洲冠军联赛",
+          "pred": "主胜",
+          "actual": "平",
+          "score": "1:1",
           "hit": false
         }
       ],
