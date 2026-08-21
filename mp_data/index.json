@@ -1,6 +1,6 @@
 {
   "date": "20260821",
-  "updated_at": "2026-08-21 12:32",
+  "updated_at": "2026-08-21 14:31",
   "matches": [
     {
       "league": "沙职",
@@ -10,67 +10,25 @@
       "consensus": 61
     },
     {
-      "league": "英超",
-      "home": "赫尔城",
-      "away": "曼联",
-      "pred": "客胜",
-      "consensus": 56
-    },
-    {
-      "league": "西甲",
-      "home": "西班牙人",
-      "away": "皇马",
-      "pred": "客胜",
-      "consensus": 53
-    },
-    {
-      "league": "法甲",
-      "home": "朗斯",
-      "away": "欧塞尔",
-      "pred": "主胜",
-      "consensus": 50
-    },
-    {
       "league": "日职",
       "home": "柏太阳神",
       "away": "长崎航海",
       "pred": "主胜",
-      "consensus": 49
-    },
-    {
-      "league": "日职",
-      "home": "东京FC",
-      "away": "千叶市原",
-      "pred": "主胜",
-      "consensus": 47
+      "consensus": 50
     },
     {
       "league": "沙职",
       "home": "胡巴卡德",
       "away": "吉达联合",
       "pred": "主胜",
-      "consensus": 47
+      "consensus": 48
     },
     {
-      "league": "荷甲",
-      "home": "福图纳",
-      "away": "阿尔克马",
-      "pred": "客胜",
-      "consensus": 45
-    },
-    {
-      "league": "西甲",
-      "home": "毕尔巴鄂",
-      "away": "塞维利亚",
+      "league": "日职",
+      "home": "东京FC",
+      "away": "千叶市原",
       "pred": "主胜",
-      "consensus": 44
-    },
-    {
-      "league": "葡超",
-      "home": "马里迪莫",
-      "away": "维塞乌",
-      "pred": "主胜",
-      "consensus": 43
+      "consensus": 46
     },
     {
       "league": "法甲",
@@ -80,53 +38,11 @@
       "consensus": 42
     },
     {
-      "league": "意甲",
-      "home": "乌迪内斯",
-      "away": "科莫",
-      "pred": "客胜",
-      "consensus": 40
-    },
-    {
-      "league": "德超杯",
-      "home": "多特蒙德",
-      "away": "拜仁",
-      "pred": "客胜",
-      "consensus": 40
-    },
-    {
-      "league": "日职",
-      "home": "鹿岛鹿角",
-      "away": "福冈黄蜂",
-      "pred": "主胜",
-      "consensus": 40
-    },
-    {
-      "league": "韩职",
-      "home": "安养FC",
-      "away": "首尔FC",
-      "pred": "客胜",
-      "consensus": 40
-    },
-    {
-      "league": "意甲",
-      "home": "热那亚",
-      "away": "那不勒斯",
-      "pred": "客胜",
-      "consensus": 39
-    },
-    {
       "league": "瑞超",
       "home": "天狼星",
       "away": "赫根",
       "pred": "主胜",
-      "consensus": 38
-    },
-    {
-      "league": "英超",
-      "home": "布伦特",
-      "away": "热刺",
-      "pred": "主胜",
-      "consensus": 38
+      "consensus": 40
     },
     {
       "league": "荷乙",
@@ -136,81 +52,11 @@
       "consensus": 36
     },
     {
-      "league": "韩职",
-      "home": "全北现代",
-      "away": "蔚山现代",
-      "pred": "主胜",
-      "consensus": 35
-    },
-    {
-      "league": "法甲",
-      "home": "尼斯",
-      "away": "洛里昂",
-      "pred": "主胜",
-      "consensus": 35
-    },
-    {
-      "league": "法甲",
-      "home": "图卢兹",
-      "away": "里昂",
-      "pred": "客胜",
-      "consensus": 35
-    },
-    {
       "league": "西甲",
       "home": "贝蒂斯",
       "away": "皇家社会",
       "pred": "主胜",
       "consensus": 34
-    },
-    {
-      "league": "英超",
-      "home": "诺丁汉",
-      "away": "利兹联",
-      "pred": "主胜",
-      "consensus": 34
-    },
-    {
-      "league": "英超",
-      "home": "伊普斯",
-      "away": "桑德兰",
-      "pred": "客胜",
-      "consensus": 34
-    },
-    {
-      "league": "日乙",
-      "home": "秋田闪电",
-      "away": "甲府风林",
-      "pred": "主胜",
-      "consensus": 34
-    },
-    {
-      "league": "日职",
-      "home": "大阪樱花",
-      "away": "清水鼓动",
-      "pred": "主胜",
-      "consensus": 33
-    },
-    {
-      "league": "西甲",
-      "home": "巴伦西亚",
-      "away": "塞尔塔",
-      "pred": "主胜",
-      "consensus": 33
-    },
-    {
-      "league": "英超",
-      "home": "埃弗顿",
-      "away": "水晶宫",
-      "pred": "主胜",
-      "consensus": 33
-    },
-    {
-      "league": "日乙",
-      "home": "磐田喜悦",
-      "away": "德岛漩涡",
-      "pred": "主胜",
-      "consensus": 32
     },
     {
       "league": "芬超",
@@ -223,13 +69,6 @@
       "league": "法乙",
       "home": "敦刻尔克",
       "away": "蒙彼利埃",
-      "pred": "主胜",
-      "consensus": 31
-    },
-    {
-      "league": "意甲",
-      "home": "帕尔马",
-      "away": "卡利亚里",
       "pred": "主胜",
       "consensus": 31
     }
