@@ -1,0 +1,99 @@
+{
+  "date": "20260821",
+  "count": 10,
+  "hits": 6,
+  "avgConsensus": 60,
+  "details": [
+    {
+      "home": "柏太阳神",
+      "away": "长崎航海",
+      "league": "日本职业联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:2",
+      "hit": true
+    },
+    {
+      "home": "东京FC",
+      "away": "千叶市原",
+      "league": "日本职业联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "利雅得",
+      "away": "利雅得胜利",
+      "league": "沙特职业联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:4",
+      "hit": true
+    },
+    {
+      "home": "塞伊奈约基",
+      "away": "拉赫蒂",
+      "league": "芬兰超级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": false
+    },
+    {
+      "home": "天狼星",
+      "away": "赫根",
+      "league": "瑞典超级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:3",
+      "hit": false
+    },
+    {
+      "home": "胡巴尔卡德西亚",
+      "away": "吉达联合",
+      "league": "沙特职业联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
+    },
+    {
+      "home": "敦刻尔克",
+      "away": "蒙彼利埃",
+      "league": "法国乙级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
+    },
+    {
+      "home": "登博思",
+      "away": "埃因霍温FC",
+      "league": "荷兰乙级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "5:2",
+      "hit": true
+    },
+    {
+      "home": "马赛",
+      "away": "斯特拉斯堡",
+      "league": "法国甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:0",
+      "hit": true
+    },
+    {
+      "home": "皇家贝蒂斯",
+      "away": "皇家社会",
+      "league": "西班牙甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    }
+  ],
+  "summary": "⚽ 昨日精选复盘 | 08月20日 | 🎉 全部命中！ | ✅ 迈季宽广 vs 利雅新月"
+}
