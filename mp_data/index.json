@@ -1,281 +1,280 @@
 {
-  "date": "20260822",
-  "updated_at": "2026-08-22 13:41",
+  "date": "20260823",
+  "updated_at": "2026-08-23 13:03",
   "matches": [
     {
-      "league": "英超",
-      "home": "赫尔城",
-      "away": "曼联",
+      "league": "荷甲",
+      "home": "坎布尔",
+      "away": "费耶诺德",
       "pred": "客胜",
-      "consensus": 56
+      "consensus": 62
+    },
+    {
+      "league": "葡超",
+      "home": "波尔图",
+      "away": "阿罗卡",
+      "pred": "主胜",
+      "consensus": 58
+    },
+    {
+      "league": "瑞超",
+      "home": "哈马比",
+      "away": "盖斯",
+      "pred": "主胜",
+      "consensus": 55
     },
     {
       "league": "西甲",
-      "home": "西班牙人",
-      "away": "皇马",
+      "home": "埃尔切",
+      "away": "巴萨",
       "pred": "客胜",
+      "consensus": 55
+    },
+    {
+      "league": "英超",
+      "home": "曼城",
+      "away": "伯恩茅斯",
+      "pred": "主胜",
+      "consensus": 53
+    },
+    {
+      "league": "荷甲",
+      "home": "埃因霍温",
+      "away": "格罗宁根",
+      "pred": "主胜",
       "consensus": 52
     },
     {
-      "league": "法甲",
-      "home": "朗斯",
-      "away": "欧塞尔",
+      "league": "意甲",
+      "home": "亚特兰大",
+      "away": "萨索洛",
       "pred": "主胜",
       "consensus": 50
     },
     {
-      "league": "美职",
-      "home": "温哥华",
-      "away": "达拉斯",
+      "league": "葡超",
+      "home": "吉马良斯",
+      "away": "葡国民",
       "pred": "主胜",
       "consensus": 48
     },
     {
       "league": "意甲",
-      "home": "乌迪内斯",
-      "away": "科莫",
+      "home": "弗洛西诺",
+      "away": "尤文图斯",
+      "pred": "平局",
+      "consensus": 48
+    },
+    {
+      "league": "意甲",
+      "home": "都灵",
+      "away": "AC米兰",
       "pred": "客胜",
       "consensus": 47
     },
     {
+      "league": "芬超",
+      "home": "赫尔辛基",
+      "away": "赫尔火花",
+      "pred": "主胜",
+      "consensus": 46
+    },
+    {
       "league": "荷甲",
-      "home": "福图纳",
-      "away": "阿尔克马",
-      "pred": "客胜",
-      "consensus": 45
-    },
-    {
-      "league": "西甲",
-      "home": "毕尔巴鄂",
-      "away": "塞维利亚",
+      "home": "前进之鹰",
+      "away": "海牙",
       "pred": "主胜",
-      "consensus": 44
-    },
-    {
-      "league": "德超杯",
-      "home": "多特蒙德",
-      "away": "拜仁",
-      "pred": "客胜",
-      "consensus": 42
-    },
-    {
-      "league": "葡超",
-      "home": "马里迪莫",
-      "away": "维塞乌",
-      "pred": "主胜",
-      "consensus": 41
+      "consensus": 46
     },
     {
       "league": "日职",
-      "home": "鹿岛鹿角",
-      "away": "福冈黄蜂",
+      "home": "町田泽维",
+      "away": "浦和红钻",
       "pred": "主胜",
-      "consensus": 41
+      "consensus": 45
+    },
+    {
+      "league": "法甲",
+      "home": "昂热",
+      "away": "里尔",
+      "pred": "客胜",
+      "consensus": 43
     },
     {
       "league": "英超",
-      "home": "布伦特",
-      "away": "热刺",
-      "pred": "主胜",
-      "consensus": 41
-    },
-    {
-      "league": "韩职",
-      "home": "安养FC",
-      "away": "首尔FC",
+      "home": "纽卡斯尔",
+      "away": "利物浦",
       "pred": "客胜",
-      "consensus": 41
-    },
-    {
-      "league": "英冠",
-      "home": "米尔沃尔",
-      "away": "诺维奇",
-      "pred": "主胜",
-      "consensus": 40
-    },
-    {
-      "league": "意甲",
-      "home": "热那亚",
-      "away": "那不勒斯",
-      "pred": "平局",
       "consensus": 39
     },
     {
-      "league": "韩职",
-      "home": "全北现代",
-      "away": "蔚山现代",
+      "league": "西甲",
+      "home": "赫塔费",
+      "away": "桑坦德",
       "pred": "主胜",
-      "consensus": 37
+      "consensus": 39
+    },
+    {
+      "league": "西甲",
+      "home": "马竞",
+      "away": "比利亚雷",
+      "pred": "主胜",
+      "consensus": 38
+    },
+    {
+      "league": "法甲",
+      "home": "勒阿弗尔",
+      "away": "摩纳哥",
+      "pred": "客胜",
+      "consensus": 38
+    },
+    {
+      "league": "巴甲",
+      "home": "桑托斯",
+      "away": "米拉索尔",
+      "pred": "主胜",
+      "consensus": 38
+    },
+    {
+      "league": "德国杯",
+      "home": "不伦瑞克",
+      "away": "柏林联合",
+      "pred": "客胜",
+      "consensus": 38
     },
     {
       "league": "意甲",
-      "home": "帕尔马",
-      "away": "卡利亚里",
+      "home": "威尼斯",
+      "away": "莱切",
       "pred": "主胜",
       "consensus": 36
     },
     {
-      "league": "英冠",
-      "home": "斯旺西",
-      "away": "谢菲联",
+      "league": "韩职",
+      "home": "大田市民",
+      "away": "江原FC",
       "pred": "主胜",
-      "consensus": 35
+      "consensus": 34
+    },
+    {
+      "league": "英冠",
+      "home": "西布罗姆",
+      "away": "伯恩利",
+      "pred": "客胜",
+      "consensus": 34
+    },
+    {
+      "league": "美职",
+      "home": "新英格兰",
+      "away": "纽约城",
+      "pred": "客胜",
+      "consensus": 34
+    },
+    {
+      "league": "葡超",
+      "home": "圣克拉拉",
+      "away": "法马利康",
+      "pred": "主胜",
+      "consensus": 33
+    },
+    {
+      "league": "德国杯",
+      "home": "菲尔特",
+      "away": "波鸿",
+      "pred": "客胜",
+      "consensus": 33
     },
     {
       "league": "瑞超",
-      "home": "厄格里特",
-      "away": "哈尔姆斯",
-      "pred": "主胜",
-      "consensus": 35
-    },
-    {
-      "league": "法甲",
-      "home": "尼斯",
-      "away": "洛里昂",
-      "pred": "主胜",
-      "consensus": 35
-    },
-    {
-      "league": "英超",
-      "home": "伊普斯",
-      "away": "桑德兰",
-      "pred": "客胜",
-      "consensus": 34
-    },
-    {
-      "league": "英超",
-      "home": "诺丁汉",
-      "away": "利兹联",
-      "pred": "主胜",
-      "consensus": 34
-    },
-    {
-      "league": "日乙",
-      "home": "秋田闪电",
-      "away": "甲府风林",
-      "pred": "主胜",
-      "consensus": 34
-    },
-    {
-      "league": "法甲",
-      "home": "图卢兹",
-      "away": "里昂",
-      "pred": "客胜",
-      "consensus": 34
-    },
-    {
-      "league": "日职",
-      "home": "大阪樱花",
-      "away": "清水鼓动",
-      "pred": "主胜",
-      "consensus": 33
-    },
-    {
-      "league": "英超",
-      "home": "埃弗顿",
-      "away": "水晶宫",
-      "pred": "主胜",
-      "consensus": 33
-    },
-    {
-      "league": "西甲",
-      "home": "巴伦西亚",
-      "away": "塞尔塔",
-      "pred": "主胜",
-      "consensus": 32
-    },
-    {
-      "league": "日乙",
-      "home": "磐田喜悦",
-      "away": "德岛漩涡",
+      "home": "哥德堡",
+      "away": "埃夫斯堡",
       "pred": "主胜",
       "consensus": 32
     }
   ],
   "reviews": [
     {
+      "league": "美职",
+      "home": "温哥华",
+      "away": "达拉斯",
+      "score": "5:0",
+      "hit": null
+    },
+    {
       "league": "西甲",
-      "home": "贝蒂斯",
-      "away": "皇家社会",
-      "score": "1:0",
-      "hit": true,
-      "pred": "主胜",
-      "actual": "主胜"
-    },
-    {
-      "league": "法甲",
-      "home": "马赛",
-      "away": "斯特拉斯",
-      "score": "4:0",
-      "hit": true,
-      "pred": "主胜",
-      "actual": "主胜"
-    },
-    {
-      "league": "荷乙",
-      "home": "登博思",
-      "away": "埃因FC",
-      "score": "5:2",
-      "hit": true,
-      "pred": "主胜",
-      "actual": "主胜"
-    },
-    {
-      "league": "法乙",
-      "home": "敦刻尔克",
-      "away": "蒙彼利埃",
-      "score": "0:1",
-      "hit": false,
-      "pred": "主胜",
-      "actual": "客胜"
-    },
-    {
-      "league": "沙职",
-      "home": "胡巴卡德",
-      "away": "吉达联合",
-      "score": "0:1",
-      "hit": false,
-      "pred": "主胜",
-      "actual": "客胜"
-    },
-    {
-      "league": "瑞超",
-      "home": "天狼星",
-      "away": "赫根",
-      "score": "0:3",
-      "hit": false,
-      "pred": "主胜",
-      "actual": "客胜"
-    },
-    {
-      "league": "芬超",
-      "home": "塞伊奈",
-      "away": "拉赫蒂",
+      "home": "西班牙人",
+      "away": "皇马",
       "score": "1:2",
-      "hit": false,
-      "pred": "主胜",
-      "actual": "客胜"
-    },
-    {
-      "league": "沙职",
-      "home": "利雅得",
-      "away": "利雅胜利",
-      "score": "0:4",
       "hit": true,
       "pred": "客胜",
       "actual": "客胜"
     },
     {
-      "league": "日职",
-      "home": "东京FC",
-      "away": "千叶市原",
-      "score": "2:0",
+      "league": "法甲",
+      "home": "图卢兹",
+      "away": "里昂",
+      "score": "0:2",
       "hit": true,
+      "pred": "客胜",
+      "actual": "客胜"
+    },
+    {
+      "league": "法甲",
+      "home": "尼斯",
+      "away": "洛里昂",
+      "score": "0:0",
+      "hit": false,
       "pred": "主胜",
-      "actual": "主胜"
+      "actual": "平"
+    },
+    {
+      "league": "意甲",
+      "home": "帕尔马",
+      "away": "卡利亚里",
+      "score": "0:1",
+      "hit": false,
+      "pred": "主胜",
+      "actual": "客胜"
+    },
+    {
+      "league": "意甲",
+      "home": "热那亚",
+      "away": "那不勒斯",
+      "score": "0:2",
+      "hit": false,
+      "pred": "平局",
+      "actual": "客胜"
+    },
+    {
+      "league": "德超杯",
+      "home": "多特蒙德",
+      "away": "拜仁",
+      "score": "1:2",
+      "hit": true,
+      "pred": "客胜",
+      "actual": "客胜"
+    },
+    {
+      "league": "西甲",
+      "home": "巴伦西亚",
+      "away": "塞尔塔",
+      "score": "0:0",
+      "hit": false,
+      "pred": "主胜",
+      "actual": "平"
+    },
+    {
+      "league": "意甲",
+      "home": "乌迪内斯",
+      "away": "科莫",
+      "score": "1:1",
+      "hit": false,
+      "pred": "客胜",
+      "actual": "平"
     }
   ],
   "history_dates": [
+    "20260822",
     "20260821",
     "20260820",
     "20260819",
@@ -301,6 +300,7 @@
     "20260729",
     "20260728",
     "20260727",
+    "2026-08-22",
     "2026-08-21",
     "2026-08-20",
     "2026-08-19",
@@ -336,43 +336,30 @@
     "2026-07-17"
   ],
   "game_stats": {
-    "total_days": 25,
+    "total_days": 26,
     "all_hit_days": 8,
-    "hit_rate": 54,
+    "hit_rate": 52,
     "today_pick": {
       "picks": [
         {
-          "league": "英超",
-          "home": "赫尔城",
-          "away": "曼联",
+          "league": "荷甲",
+          "home": "坎布尔",
+          "away": "费耶诺德",
           "pred": "客胜"
         },
         {
-          "league": "西甲",
-          "home": "西班牙人",
-          "away": "皇马",
-          "pred": "客胜"
+          "league": "葡超",
+          "home": "波尔图",
+          "away": "阿罗卡",
+          "pred": "主胜"
         }
       ],
-      "combo_odds": "1.61"
+      "combo_odds": "1.30"
     },
     "yesterday_result": {
-      "picks": [
-        {
-          "home": "利雅得",
-          "away": "利雅胜利",
-          "hit": true,
-          "score": "0:4"
-        },
-        {
-          "home": "柏太阳神",
-          "away": "长崎航海",
-          "hit": true,
-          "score": "4:2"
-        }
-      ],
-      "hits": 2,
-      "count": 2
+      "picks": [],
+      "hits": 0,
+      "count": 0
     }
   }
 }
