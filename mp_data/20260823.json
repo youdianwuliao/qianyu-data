@@ -1,0 +1,252 @@
+{
+  "date": "20260823",
+  "count": 27,
+  "hits": 18,
+  "avgConsensus": 67,
+  "details": [
+    {
+      "home": "前进之鹰",
+      "away": "海牙",
+      "league": "荷兰甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": true
+    },
+    {
+      "home": "町田泽维亚",
+      "away": "浦和红钻",
+      "league": "日本职业联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": true
+    },
+    {
+      "home": "大田市民",
+      "away": "江原FC",
+      "league": "韩国职业联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:0",
+      "hit": true
+    },
+    {
+      "home": "西布罗姆维奇",
+      "away": "伯恩利",
+      "league": "英格兰冠军联赛",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": false
+    },
+    {
+      "home": "菲尔特",
+      "away": "波鸿",
+      "league": "德国杯",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": true
+    },
+    {
+      "home": "IFK哥德堡",
+      "away": "埃尔夫斯堡",
+      "league": "瑞典超级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "赫尔辛基",
+      "away": "赫尔辛基火花",
+      "league": "芬兰超级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "2:3",
+      "hit": false
+    },
+    {
+      "home": "PSV埃因霍温",
+      "away": "格罗宁根",
+      "league": "荷兰甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "5:1",
+      "hit": true
+    },
+    {
+      "home": "曼彻斯特城",
+      "away": "伯恩茅斯",
+      "league": "英格兰超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "昂热",
+      "away": "里尔",
+      "league": "法国甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": true
+    },
+    {
+      "home": "不伦瑞克",
+      "away": "柏林联合",
+      "league": "德国杯",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "2:4",
+      "hit": true
+    },
+    {
+      "home": "吉马良斯",
+      "away": "葡萄牙国民",
+      "league": "葡萄牙超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "哈马比",
+      "away": "哥德堡盖斯",
+      "league": "瑞典超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "坎布尔",
+      "away": "费耶诺德",
+      "league": "荷兰甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "2:5",
+      "hit": true
+    },
+    {
+      "home": "马德里竞技",
+      "away": "比利亚雷亚尔",
+      "league": "西班牙甲级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "2:2",
+      "hit": false
+    },
+    {
+      "home": "勒阿弗尔",
+      "away": "摩纳哥",
+      "league": "法国甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": true
+    },
+    {
+      "home": "纽卡斯尔联",
+      "away": "利物浦",
+      "league": "英格兰超级联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "2:2",
+      "hit": false
+    },
+    {
+      "home": "弗洛西诺内",
+      "away": "尤文图斯",
+      "league": "意大利甲级联赛",
+      "pred": "平局",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
+    },
+    {
+      "home": "威尼斯",
+      "away": "莱切",
+      "league": "意大利甲级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": false
+    },
+    {
+      "home": "圣克拉拉",
+      "away": "法马利康",
+      "league": "葡萄牙超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "赫塔费",
+      "away": "桑坦德竞技",
+      "league": "西班牙甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "都灵",
+      "away": "AC米兰",
+      "league": "意大利甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": true
+    },
+    {
+      "home": "亚特兰大",
+      "away": "萨索洛",
+      "league": "意大利甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "埃尔切",
+      "away": "巴塞罗那",
+      "league": "西班牙甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:5",
+      "hit": true
+    },
+    {
+      "home": "波尔图",
+      "away": "阿罗卡",
+      "league": "葡萄牙超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "新英格兰革命",
+      "away": "纽约城",
+      "league": "美国职业大联盟",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "桑托斯",
+      "away": "米拉索尔",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    }
+  ],
+  "summary": "⚽ 昨日精选复盘 | 08月22日 | ⏳ 2场待完赛 | ⏳ 赫尔城 vs 曼联"
+}
