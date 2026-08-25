@@ -1,82 +1,108 @@
 {
   "date": "20260824",
-  "items": [
+  "count": 11,
+  "hits": 7,
+  "avgConsensus": 64,
+  "details": [
     {
-      "league": "沙职",
-      "home": "吉达联合",
-      "away": "拉斯决心",
-      "pred": "主胜",
-      "consensus": 48
-    },
-    {
-      "league": "沙职",
-      "home": "新未来SC",
-      "away": "胡巴卡德",
-      "pred": "客胜",
-      "consensus": 48
-    },
-    {
-      "league": "葡超",
-      "home": "吉维森特",
-      "away": "卡萨皮亚",
-      "pred": "主胜",
-      "consensus": 46
-    },
-    {
-      "league": "法乙",
-      "home": "兰斯",
-      "away": "阿纳西",
-      "pred": "主胜",
-      "consensus": 45
-    },
-    {
-      "league": "西甲",
-      "home": "奥萨苏纳",
-      "away": "莱万特",
-      "pred": "主胜",
-      "consensus": 42
-    },
-    {
-      "league": "意甲",
-      "home": "罗马",
-      "away": "佛罗伦萨",
-      "pred": "主胜",
-      "consensus": 42
-    },
-    {
-      "league": "英超",
-      "home": "富勒姆",
-      "away": "切尔西",
-      "pred": "客胜",
-      "consensus": 41
-    },
-    {
-      "league": "巴甲",
-      "home": "博塔弗戈",
-      "away": "巴竞技",
-      "pred": "主胜",
-      "consensus": 35
-    },
-    {
-      "league": "西甲",
-      "home": "马拉加",
-      "away": "拉科",
-      "pred": "主胜",
-      "consensus": 35
-    },
-    {
-      "league": "意甲",
       "home": "博洛尼亚",
       "away": "拉齐奥",
+      "league": "意大利甲级联赛",
       "pred": "主胜",
-      "consensus": 33
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
     },
     {
-      "league": "瑞超",
+      "home": "新未来SC",
+      "away": "胡巴尔卡德西亚",
+      "league": "沙特职业联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": true
+    },
+    {
       "home": "马尔默",
       "away": "佐加顿斯",
+      "league": "瑞典超级联赛",
       "pred": "客胜",
-      "consensus": 32
+      "actual": "客胜",
+      "score": "0:3",
+      "hit": true
+    },
+    {
+      "home": "奥萨苏纳",
+      "away": "莱万特",
+      "league": "西班牙甲级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "吉达联合",
+      "away": "拉斯决心",
+      "league": "沙特职业联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:2",
+      "hit": true
+    },
+    {
+      "home": "罗马",
+      "away": "佛罗伦萨",
+      "league": "意大利甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:0",
+      "hit": true
+    },
+    {
+      "home": "兰斯",
+      "away": "阿纳西",
+      "league": "法国乙级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": true
+    },
+    {
+      "home": "富勒姆",
+      "away": "切尔西",
+      "league": "英格兰超级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "2:3",
+      "hit": true
+    },
+    {
+      "home": "吉维森特",
+      "away": "卡萨皮亚",
+      "league": "葡萄牙超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "马拉加",
+      "away": "拉科鲁尼亚",
+      "league": "西班牙甲级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "博塔弗戈",
+      "away": "巴拉纳竞技",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "2:3",
+      "hit": false
     }
-  ]
+  ],
+  "summary": "⚽ 昨日精选复盘 | 08月23日 | 🎉 全部命中！ | ✅ 坎布尔 vs 费耶诺德"
 }
