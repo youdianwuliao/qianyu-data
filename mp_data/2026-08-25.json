@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-25",
+  "count": 9,
+  "hits": 4,
+  "avgConsensus": 44,
+  "details": [
+    {
+      "home": "金泉尚武",
+      "away": "全北现代",
+      "league": "韩国职业联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "济州SK",
+      "away": "浦项制铁",
+      "league": "韩国职业联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": false
+    },
+    {
+      "home": "达曼协定",
+      "away": "利雅得胜利",
+      "league": "沙特职业联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "2:3",
+      "hit": true
+    },
+    {
+      "home": "斯托克城",
+      "away": "赫尔城",
+      "league": "英格兰联赛杯",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "LASK林茨",
+      "away": "凯尔特人",
+      "league": "欧洲冠军联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:1",
+      "hit": true
+    },
+    {
+      "home": "博德闪耀",
+      "away": "奈梅亨",
+      "league": "欧洲冠军联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:0",
+      "hit": true
+    },
+    {
+      "home": "诺丁汉森林",
+      "away": "利兹联",
+      "league": "英格兰联赛杯",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": true
+    },
+    {
+      "home": "伯明翰",
+      "away": "布伦特福德",
+      "league": "英格兰联赛杯",
+      "pred": "平局",
+      "actual": "客胜",
+      "score": "1:6",
+      "hit": false
+    },
+    {
+      "home": "巴伦西亚",
+      "away": "皇家贝蒂斯",
+      "league": "西班牙甲级联赛",
+      "pred": "平局",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
