@@ -1,0 +1,99 @@
+{
+  "date": "20260826",
+  "count": 10,
+  "hits": 7,
+  "avgConsensus": 70,
+  "details": [
+    {
+      "home": "大田市民",
+      "away": "蔚山现代",
+      "league": "韩国职业联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "安养FC",
+      "away": "仁川联",
+      "league": "韩国职业联赛",
+      "pred": "平局",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": false
+    },
+    {
+      "home": "托特纳姆热刺",
+      "away": "查尔顿",
+      "league": "英格兰联赛杯",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "5:1",
+      "hit": true
+    },
+    {
+      "home": "纽卡斯尔联",
+      "away": "西布罗姆维奇",
+      "league": "英格兰联赛杯",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:2",
+      "hit": true
+    },
+    {
+      "home": "雅典AEK",
+      "away": "索菲亚列夫斯基",
+      "league": "欧洲冠军联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:0",
+      "hit": true
+    },
+    {
+      "home": "采列",
+      "away": "布拉迪斯拉发",
+      "league": "欧洲冠军联赛",
+      "pred": "平局",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "维京",
+      "away": "萨格勒布迪纳摩",
+      "league": "欧洲冠军联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": true
+    },
+    {
+      "home": "里昂",
+      "away": "费内巴切",
+      "league": "欧洲冠军联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": false
+    },
+    {
+      "home": "普雷斯顿",
+      "away": "埃弗顿",
+      "league": "英格兰联赛杯",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:4",
+      "hit": true
+    },
+    {
+      "home": "皇家马德里",
+      "away": "皇家社会",
+      "league": "西班牙甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:1",
+      "hit": true
+    }
+  ],
+  "summary": "⚽ 昨日精选复盘 | 08月25日 | 🎉 全部命中！ | ✅ 达曼协定 vs 利雅胜利"
+}
