@@ -1,0 +1,216 @@
+{
+  "date": "20260830",
+  "count": 23,
+  "hits": 14,
+  "avgConsensus": 61,
+  "details": [
+    {
+      "home": "乌德勒支",
+      "away": "PSV埃因霍温",
+      "league": "荷兰甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "1:6",
+      "hit": true
+    },
+    {
+      "home": "济州SK",
+      "away": "大田市民",
+      "league": "韩国职业联赛",
+      "pred": "平局",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": false
+    },
+    {
+      "home": "仁川联",
+      "away": "全北现代",
+      "league": "韩国职业联赛",
+      "pred": "平局",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "圣保利",
+      "away": "凯泽斯劳滕",
+      "league": "德国乙级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": false
+    },
+    {
+      "home": "AIK索尔纳",
+      "away": "哈马比",
+      "league": "瑞典超级联赛",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "3:2",
+      "hit": false
+    },
+    {
+      "home": "博德闪耀",
+      "away": "罗森博格",
+      "league": "挪威超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:2",
+      "hit": true
+    },
+    {
+      "home": "桑德兰",
+      "away": "富勒姆",
+      "league": "英格兰超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "利兹联",
+      "away": "布伦特福德",
+      "league": "英格兰超级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "巴黎FC",
+      "away": "尼斯",
+      "league": "法国甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:0",
+      "hit": true
+    },
+    {
+      "home": "弗赖堡",
+      "away": "云达不来梅",
+      "league": "德国甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:1",
+      "hit": true
+    },
+    {
+      "home": "特尔斯达",
+      "away": "阿贾克斯",
+      "league": "荷兰甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:4",
+      "hit": true
+    },
+    {
+      "home": "曼彻斯特联",
+      "away": "伊普斯维奇",
+      "league": "英格兰超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "5:2",
+      "hit": true
+    },
+    {
+      "home": "奥格斯堡",
+      "away": "沙尔克04",
+      "league": "德国甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:0",
+      "hit": true
+    },
+    {
+      "home": "那不勒斯",
+      "away": "科莫",
+      "league": "意大利甲级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": false
+    },
+    {
+      "home": "拉科鲁尼亚",
+      "away": "巴伦西亚",
+      "league": "西班牙甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": true
+    },
+    {
+      "home": "坎布尔",
+      "away": "特温特",
+      "league": "荷兰甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "1:4",
+      "hit": true
+    },
+    {
+      "home": "拉齐奥",
+      "away": "热那亚",
+      "league": "意大利甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "卡利亚里",
+      "away": "国际米兰",
+      "league": "意大利甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": true
+    },
+    {
+      "home": "摩纳哥",
+      "away": "马赛",
+      "league": "法国甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "弗拉门戈",
+      "away": "博塔弗戈",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:0",
+      "hit": true
+    },
+    {
+      "home": "维戈塞尔塔",
+      "away": "毕尔巴鄂竞技",
+      "league": "西班牙甲级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": false
+    },
+    {
+      "home": "法马利康",
+      "away": "吉维森特",
+      "league": "葡萄牙超级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "圣路易斯城",
+      "away": "达拉斯FC",
+      "league": "美国职业大联盟",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "3:3",
+      "hit": false
+    }
+  ],
+  "summary": "⚽ 昨日精选复盘 | 08月29日 | ✅ 命中（1场待完赛） | ⏳ 维京 vs 奥勒松"
+}
