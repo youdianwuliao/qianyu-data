@@ -1,0 +1,99 @@
+{
+  "date": "20260831",
+  "count": 10,
+  "hits": 8,
+  "avgConsensus": 80,
+  "details": [
+    {
+      "home": "国际图尔库",
+      "away": "库奥皮奥",
+      "league": "芬兰超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "赫尔辛基火花",
+      "away": "TPS图尔库",
+      "league": "芬兰超级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "莱切",
+      "away": "罗马",
+      "league": "意大利甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:4",
+      "hit": true
+    },
+    {
+      "home": "佐加顿斯",
+      "away": "米亚尔比",
+      "league": "瑞典超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:0",
+      "hit": true
+    },
+    {
+      "home": "天狼星",
+      "away": "马尔默",
+      "league": "瑞典超级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
+    },
+    {
+      "home": "奥萨苏纳",
+      "away": "赫塔费",
+      "league": "西班牙甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "亚特兰大",
+      "away": "博洛尼亚",
+      "league": "意大利甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "第戎",
+      "away": "圣埃蒂安",
+      "league": "法国乙级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "2:3",
+      "hit": true
+    },
+    {
+      "home": "阿斯顿维拉",
+      "away": "阿森纳",
+      "league": "英格兰超级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": true
+    },
+    {
+      "home": "布拉加",
+      "away": "吉马良斯",
+      "league": "葡萄牙超级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    }
+  ],
+  "summary": "⚽ 昨日精选复盘 | 08月30日 | ✅ 命中（1场待完赛） | ✅ 弗拉门戈 vs 博塔弗戈"
+}
