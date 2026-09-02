@@ -1,171 +1,186 @@
 {
-  "date": "20260901",
-  "updated_at": "2026-09-01 12:22",
+  "date": "20260902",
+  "updated_at": "2026-09-02 12:21",
   "matches": [
     {
-      "league": "沙职",
-      "home": "利雅新月",
-      "away": "吉达国民",
+      "league": "巴甲",
+      "home": "弗拉门戈",
+      "away": "米拉索尔",
       "pred": "主胜",
-      "consensus": 49
+      "consensus": 58
     },
     {
-      "league": "英冠",
-      "home": "西汉姆联",
-      "away": "伍尔弗",
-      "pred": "主胜",
+      "league": "日职",
+      "home": "水户蜀葵",
+      "away": "鹿岛鹿角",
+      "pred": "客胜",
       "consensus": 44
     },
     {
       "league": "英冠",
-      "home": "谢菲联",
-      "away": "博尔顿",
+      "home": "西布罗姆",
+      "away": "查尔顿",
       "pred": "主胜",
-      "consensus": 44
+      "consensus": 42
     },
     {
       "league": "英冠",
-      "home": "斯旺西",
-      "away": "沃特福德",
+      "home": "女王巡游",
+      "away": "加的夫城",
       "pred": "主胜",
-      "consensus": 40
+      "consensus": 42
+    },
+    {
+      "league": "日职",
+      "home": "町田泽维",
+      "away": "川崎前锋",
+      "pred": "主胜",
+      "consensus": 41
     },
     {
       "league": "英冠",
-      "home": "斯托克城",
-      "away": "诺维奇",
+      "home": "伯恩利",
+      "away": "米堡",
       "pred": "客胜",
       "consensus": 39
     },
     {
       "league": "英冠",
-      "home": "朴次茅斯",
-      "away": "德比郡",
+      "home": "米尔沃尔",
+      "away": "雷克斯",
       "pred": "主胜",
-      "consensus": 37
+      "consensus": 39
     },
     {
-      "league": "英冠",
-      "home": "林肯城",
-      "away": "布莱克本",
+      "league": "日职",
+      "home": "大阪樱花",
+      "away": "柏太阳神",
+      "pred": "客胜",
+      "consensus": 38
+    },
+    {
+      "league": "意大利杯",
+      "home": "萨索洛",
+      "away": "弗洛西诺",
       "pred": "主胜",
       "consensus": 36
     },
     {
       "league": "意大利杯",
-      "home": "都灵",
-      "away": "蒙扎",
+      "home": "乌迪内斯",
+      "away": "威尼斯",
       "pred": "主胜",
-      "consensus": 36
+      "consensus": 34
     },
     {
-      "league": "英冠",
-      "home": "伯明翰",
-      "away": "南安普敦",
+      "league": "日联赛杯",
+      "home": "八户南源",
+      "away": "枥木城",
       "pred": "客胜",
-      "consensus": 36
+      "consensus": 32
     },
     {
-      "league": "英冠",
-      "home": "普雷斯顿",
-      "away": "布城",
-      "pred": "主胜",
-      "consensus": 33
+      "league": "巴西杯",
+      "home": "桑托斯",
+      "away": "帕梅拉斯",
+      "pred": "客胜",
+      "consensus": 30
     }
   ],
   "reviews": [
     {
-      "league": "芬兰超级联赛",
-      "home": "国际图尔库",
-      "away": "库奥皮奥",
-      "score": "1:0",
+      "league": "沙特职业联赛",
+      "home": "利雅得新月",
+      "away": "吉达国民",
+      "score": "3:0",
       "pred": "主胜",
       "actual": "主胜",
       "hit": true
     },
     {
-      "league": "芬兰超级联赛",
-      "home": "赫尔辛基火花",
-      "away": "TPS图尔库",
-      "score": "1:1",
+      "league": "英格兰冠军联赛",
+      "home": "斯旺西",
+      "away": "沃特福德",
+      "score": "2:0",
+      "pred": "主胜",
+      "actual": "主胜",
+      "hit": true
+    },
+    {
+      "league": "英格兰冠军联赛",
+      "home": "西汉姆联",
+      "away": "伍尔弗汉普顿",
+      "score": "4:2",
+      "pred": "主胜",
+      "actual": "主胜",
+      "hit": true
+    },
+    {
+      "league": "英格兰冠军联赛",
+      "home": "朴次茅斯",
+      "away": "德比郡",
+      "score": "0:2",
+      "pred": "主胜",
+      "actual": "客胜",
+      "hit": false
+    },
+    {
+      "league": "英格兰冠军联赛",
+      "home": "林肯城",
+      "away": "布莱克本",
+      "score": "0:0",
       "pred": "主胜",
       "actual": "平",
       "hit": false
     },
     {
-      "league": "意大利甲级联赛",
-      "home": "莱切",
-      "away": "罗马",
-      "score": "0:4",
-      "pred": "客胜",
-      "actual": "客胜",
-      "hit": true
-    },
-    {
-      "league": "瑞典超级联赛",
-      "home": "佐加顿斯",
-      "away": "米亚尔比",
-      "score": "4:0",
-      "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
-    },
-    {
-      "league": "瑞典超级联赛",
-      "home": "天狼星",
-      "away": "马尔默",
-      "score": "0:1",
+      "league": "英格兰冠军联赛",
+      "home": "普雷斯顿",
+      "away": "布里斯托尔城",
+      "score": "1:3",
       "pred": "主胜",
       "actual": "客胜",
       "hit": false
     },
     {
-      "league": "西班牙甲级联赛",
-      "home": "奥萨苏纳",
-      "away": "赫塔费",
-      "score": "1:0",
+      "league": "英格兰冠军联赛",
+      "home": "谢菲尔德联",
+      "away": "博尔顿",
+      "score": "3:2",
       "pred": "主胜",
       "actual": "主胜",
       "hit": true
     },
     {
-      "league": "意大利甲级联赛",
-      "home": "亚特兰大",
-      "away": "博洛尼亚",
-      "score": "1:0",
-      "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
-    },
-    {
-      "league": "法国乙级联赛",
-      "home": "第戎",
-      "away": "圣埃蒂安",
-      "score": "2:3",
+      "league": "英格兰冠军联赛",
+      "home": "伯明翰",
+      "away": "南安普敦",
+      "score": "1:1",
       "pred": "客胜",
-      "actual": "客胜",
-      "hit": true
+      "actual": "平",
+      "hit": false
     },
     {
-      "league": "英格兰超级联赛",
-      "home": "阿斯顿维拉",
-      "away": "阿森纳",
+      "league": "英格兰冠军联赛",
+      "home": "斯托克城",
+      "away": "诺维奇",
+      "score": "1:0",
+      "pred": "客胜",
+      "actual": "主胜",
+      "hit": false
+    },
+    {
+      "league": "意大利杯",
+      "home": "都灵",
+      "away": "蒙扎",
       "score": "0:1",
-      "pred": "客胜",
-      "actual": "客胜",
-      "hit": true
-    },
-    {
-      "league": "葡萄牙超级联赛",
-      "home": "布拉加",
-      "away": "吉马良斯",
-      "score": "1:0",
       "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
+      "actual": "客胜",
+      "hit": false
     }
   ],
   "history_dates": [
+    "20260901",
     "20260831",
     "20260830",
     "20260829",
@@ -201,6 +216,7 @@
     "20260729",
     "20260728",
     "20260727",
+    "2026-09-01",
     "2026-08-31",
     "2026-08-30",
     "2026-08-29",
@@ -246,9 +262,9 @@
     "2026-07-17"
   ],
   "game_stats": {
-    "total_days": 35,
-    "all_hit_days": 12,
-    "hit_rate": 57,
+    "total_days": 36,
+    "all_hit_days": 13,
+    "hit_rate": 58,
     "today_pick": {
       "picks": [],
       "combo_odds": "?"
@@ -256,16 +272,16 @@
     "yesterday_result": {
       "picks": [
         {
-          "home": "佐加顿斯",
-          "away": "米亚尔比",
+          "home": "利雅新月",
+          "away": "吉达国民",
           "hit": true,
-          "score": "4:0"
+          "score": "3:0"
         },
         {
-          "home": "维拉",
-          "away": "阿森纳",
+          "home": "西汉姆联",
+          "away": "伍尔弗",
           "hit": true,
-          "score": "0:1"
+          "score": "4:2"
         }
       ],
       "hits": 2,
