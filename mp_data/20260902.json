@@ -1,0 +1,108 @@
+{
+  "date": "20260902",
+  "count": 11,
+  "hits": 5,
+  "avgConsensus": 45,
+  "details": [
+    {
+      "home": "八户南源",
+      "away": "枥木城",
+      "league": "日本联赛杯",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": true
+    },
+    {
+      "home": "大阪樱花",
+      "away": "柏太阳神",
+      "league": "日本职业联赛",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": false
+    },
+    {
+      "home": "水户蜀葵",
+      "away": "鹿岛鹿角",
+      "league": "日本职业联赛",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "4:2",
+      "hit": false
+    },
+    {
+      "home": "町田泽维亚",
+      "away": "川崎前锋",
+      "league": "日本职业联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "萨索洛",
+      "away": "弗洛西诺内",
+      "league": "意大利杯",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "乌迪内斯",
+      "away": "威尼斯",
+      "league": "意大利杯",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "米尔沃尔",
+      "away": "雷克斯汉姆",
+      "league": "英格兰冠军联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:3",
+      "hit": false
+    },
+    {
+      "home": "西布罗姆维奇",
+      "away": "查尔顿",
+      "league": "英格兰冠军联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "女王公园巡游者",
+      "away": "加的夫城",
+      "league": "英格兰冠军联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "伯恩利",
+      "away": "米德尔斯堡",
+      "league": "英格兰冠军联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "弗拉门戈",
+      "away": "米拉索尔",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    }
+  ],
+  "summary": "⚽ 昨日精选复盘 | 09月01日 | 🎉 全部命中！ | ✅ 利雅新月 vs 吉达国民"
+}
