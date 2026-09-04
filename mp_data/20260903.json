@@ -1,0 +1,72 @@
+{
+  "date": "20260903",
+  "count": 7,
+  "hits": 5,
+  "avgConsensus": 71,
+  "details": [
+    {
+      "home": "迈季迈阿宽广",
+      "away": "拉斯永恒",
+      "league": "沙特职业联赛",
+      "pred": "平局",
+      "actual": "平",
+      "score": "2:2",
+      "hit": false
+    },
+    {
+      "home": "新未来SC",
+      "away": "赛哈特海湾",
+      "league": "沙特职业联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:0",
+      "hit": true
+    },
+    {
+      "home": "米亚尔比",
+      "away": "佐加顿斯",
+      "league": "瑞典超级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": true
+    },
+    {
+      "home": "迪里耶",
+      "away": "胡巴尔卡德西亚",
+      "league": "沙特职业联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": true
+    },
+    {
+      "home": "图卢兹",
+      "away": "里尔",
+      "league": "法国甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": true
+    },
+    {
+      "home": "皇家社会",
+      "away": "维戈塞尔塔",
+      "league": "西班牙甲级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "格雷米奥",
+      "away": "巴西国际",
+      "league": "巴西杯",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": true
+    }
+  ],
+  "summary": "⚽ 昨日精选复盘 | 09月02日 | ❌ 未中 | ✅ 弗拉门戈 vs 米拉索尔"
+}
