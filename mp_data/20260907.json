@@ -1,0 +1,81 @@
+{
+  "date": "20260907",
+  "count": 8,
+  "hits": 4,
+  "avgConsensus": 50,
+  "details": [
+    {
+      "home": "卡利亚里",
+      "away": "莱切",
+      "league": "意大利甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "赫塔费",
+      "away": "维戈塞尔塔",
+      "league": "西班牙甲级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "马尔默",
+      "away": "AIK索尔纳",
+      "league": "瑞典超级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "卡尔马",
+      "away": "佐加顿斯",
+      "league": "瑞典超级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": true
+    },
+    {
+      "home": "利雅得新月",
+      "away": "新未来SC",
+      "league": "沙特职业联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": false
+    },
+    {
+      "home": "乌迪内斯",
+      "away": "拉齐奥",
+      "league": "意大利甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": true
+    },
+    {
+      "home": "埃斯托里尔",
+      "away": "阿罗卡",
+      "league": "葡萄牙超级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "埃尔切",
+      "away": "皇家社会",
+      "league": "西班牙甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "2:3",
+      "hit": true
+    }
+  ],
+  "summary": "⚽ 昨日精选复盘 | 09月06日 | 🎉 全部命中！ | ✅ 巴伦西亚 vs 巴塞罗那"
+}
