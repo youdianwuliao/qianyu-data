@@ -1,0 +1,180 @@
+{
+  "date": "2026-09-13",
+  "count": 19,
+  "hits": 9,
+  "avgConsensus": 47,
+  "details": [
+    {
+      "home": "东京绿茵",
+      "away": "千叶市原",
+      "league": "日本职业联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "仙台七夕",
+      "away": "札幌冈萨多",
+      "league": "日本乙级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "维戈塞尔塔",
+      "away": "马拉加",
+      "league": "西班牙甲级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "库奥皮奥",
+      "away": "赫尔辛基",
+      "league": "芬兰超级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "海伦芬",
+      "away": "特尔斯达",
+      "league": "荷兰甲级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "莱切",
+      "away": "蒙扎",
+      "league": "意大利甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:2",
+      "hit": true
+    },
+    {
+      "home": "里尔",
+      "away": "特鲁瓦",
+      "league": "法国甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "莱比锡红牛",
+      "away": "汉堡",
+      "league": "德国甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "5:0",
+      "hit": true
+    },
+    {
+      "home": "汉坎",
+      "away": "莫尔德",
+      "league": "挪威超级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "1:5",
+      "hit": true
+    },
+    {
+      "home": "勒芒",
+      "away": "朗斯",
+      "league": "法国甲级联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "2:2",
+      "hit": false
+    },
+    {
+      "home": "曼彻斯特联",
+      "away": "曼彻斯特城",
+      "league": "英格兰超级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": true
+    },
+    {
+      "home": "那不勒斯",
+      "away": "博洛尼亚",
+      "league": "意大利甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "赫塔费",
+      "away": "拉科鲁尼亚",
+      "league": "西班牙甲级联赛",
+      "pred": "平局",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "萨索洛",
+      "away": "尤文图斯",
+      "league": "意大利甲级联赛",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "3:2",
+      "hit": false
+    },
+    {
+      "home": "布雷斯特",
+      "away": "巴黎圣日尔曼",
+      "league": "法国甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": true
+    },
+    {
+      "home": "皇家社会",
+      "away": "马德里竞技",
+      "league": "西班牙甲级联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:3",
+      "hit": true
+    },
+    {
+      "home": "法马利康",
+      "away": "里斯本竞技",
+      "league": "葡萄牙超级联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "弗拉门戈",
+      "away": "科林蒂安",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "芝加哥火焰",
+      "away": "新英格兰革命",
+      "league": "美国职业大联盟",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
