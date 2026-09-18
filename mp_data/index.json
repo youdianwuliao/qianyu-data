@@ -1,119 +1,131 @@
 {
-  "date": "20260917",
-  "updated_at": "2026-09-17 12:19",
+  "date": "20260918",
+  "updated_at": "2026-09-18 12:18",
   "matches": [
     {
-      "league": "欧罗巴",
-      "home": "尤文图斯",
-      "away": "奈梅亨",
-      "pred": "主胜",
-      "consensus": 58
-    },
-    {
-      "league": "欧罗巴",
-      "home": "水晶宫",
-      "away": "波兹南",
-      "pred": "主胜",
-      "consensus": 55
-    },
-    {
-      "league": "亚冠乙",
-      "home": "上海申花",
-      "away": "淡宾尼士",
-      "pred": "主胜",
-      "consensus": 54
-    },
-    {
-      "league": "欧罗巴",
-      "home": "克里特",
-      "away": "霍芬海姆",
-      "pred": "客胜",
-      "consensus": 52
-    },
-    {
-      "league": "欧罗巴",
-      "home": "利勒斯特",
-      "away": "托林斯",
+      "league": "荷甲",
+      "home": "格罗宁根",
+      "away": "兹沃勒",
       "pred": "主胜",
       "consensus": 51
     },
     {
-      "league": "解放者杯",
-      "home": "弗拉门戈",
-      "away": "德尔瓦耶",
+      "league": "德乙",
+      "home": "沃夫斯堡",
+      "away": "达姆施塔",
       "pred": "主胜",
-      "consensus": 51
+      "consensus": 49
     },
     {
-      "league": "西甲",
-      "home": "贝蒂斯",
-      "away": "赫塔费",
+      "league": "挪超",
+      "home": "萨普斯堡",
+      "away": "奥斯KFUM",
       "pred": "主胜",
       "consensus": 47
     },
     {
-      "league": "欧罗巴",
-      "home": "贝西克塔",
-      "away": "马赛",
+      "league": "亚运男足",
+      "home": "沙特亚",
+      "away": "卡塔尔亚",
       "pred": "主胜",
-      "consensus": 43
-    },
-    {
-      "league": "欧罗巴",
-      "home": "皇家社会",
-      "away": "伯恩茅斯",
-      "pred": "客胜",
-      "consensus": 39
+      "consensus": 46
     },
     {
       "league": "西甲",
-      "home": "马拉加",
-      "away": "比利亚雷",
+      "home": "西班牙人",
+      "away": "埃尔切",
+      "pred": "主胜",
+      "consensus": 44
+    },
+    {
+      "league": "芬超",
+      "home": "赫尔火花",
+      "away": "赫尔辛基",
       "pred": "客胜",
-      "consensus": 37
+      "consensus": 42
+    },
+    {
+      "league": "荷乙",
+      "home": "登博思",
+      "away": "海尔蒙特",
+      "pred": "主胜",
+      "consensus": 42
+    },
+    {
+      "league": "法乙",
+      "home": "兰斯",
+      "away": "蒙彼利埃",
+      "pred": "主胜",
+      "consensus": 40
+    },
+    {
+      "league": "法甲",
+      "home": "摩纳哥",
+      "away": "朗斯",
+      "pred": "主胜",
+      "consensus": 38
+    },
+    {
+      "league": "美职",
+      "home": "纽约城",
+      "away": "纽约红牛",
+      "pred": "主胜",
+      "consensus": 38
+    },
+    {
+      "league": "英冠",
+      "home": "布城",
+      "away": "沃特福德",
+      "pred": "主胜",
+      "consensus": 38
+    },
+    {
+      "league": "意甲",
+      "home": "蒙扎",
+      "away": "萨索洛",
+      "pred": "客胜",
+      "consensus": 36
+    },
+    {
+      "league": "英超",
+      "home": "布伦特",
+      "away": "切尔西",
+      "pred": "客胜",
+      "consensus": 33
     }
   ],
   "reviews": [
     {
-      "league": "亚运会男足",
-      "home": "中国亚运男足",
-      "away": "朝鲜亚运男足",
+      "league": "亚洲冠军乙级联赛",
+      "home": "上海申花",
+      "away": "淡宾尼士流浪",
       "score": "2:1",
       "pred": "主胜",
       "actual": "主胜",
       "hit": true
     },
     {
-      "league": "亚洲冠军精英联赛",
-      "home": "全北现代",
-      "away": "柏太阳神",
-      "score": "2:1",
+      "league": "欧罗巴联赛",
+      "home": "克里特",
+      "away": "霍芬海姆",
+      "score": "2:0",
       "pred": "客胜",
       "actual": "主胜",
       "hit": false
     },
     {
-      "league": "欧罗巴联赛",
-      "home": "奥莫尼亚",
-      "away": "维戈塞尔塔",
+      "league": "西班牙甲级联赛",
+      "home": "皇家贝蒂斯",
+      "away": "赫塔费",
       "score": "1:0",
-      "pred": "平局",
+      "pred": "主胜",
       "actual": "主胜",
-      "hit": false
+      "hit": true
     },
     {
-      "league": "西班牙甲级联赛",
-      "home": "拉科鲁尼亚",
-      "away": "塞维利亚",
-      "score": "0:1",
-      "pred": "平局",
-      "actual": "客胜",
-      "hit": false
-    },
-    {
-      "league": "西班牙甲级联赛",
-      "home": "马德里竞技",
-      "away": "奥萨苏纳",
+      "league": "欧罗巴联赛",
+      "home": "水晶宫",
+      "away": "波兹南莱赫",
       "score": "4:0",
       "pred": "主胜",
       "actual": "主胜",
@@ -121,44 +133,44 @@
     },
     {
       "league": "欧罗巴联赛",
-      "home": "AC米兰",
-      "away": "本菲卡",
-      "score": "0:2",
-      "pred": "平局",
+      "home": "皇家社会",
+      "away": "伯恩茅斯",
+      "score": "1:2",
+      "pred": "客胜",
       "actual": "客胜",
-      "hit": false
+      "hit": true
     },
     {
       "league": "欧罗巴联赛",
-      "home": "桑德兰",
-      "away": "阿尔克马尔",
-      "score": "1:0",
+      "home": "尤文图斯",
+      "away": "奈梅亨",
+      "score": "5:0",
       "pred": "主胜",
       "actual": "主胜",
       "hit": true
     },
     {
       "league": "欧罗巴联赛",
-      "home": "格拉茨风暴",
-      "away": "雷恩",
-      "score": "0:0",
-      "pred": "客胜",
-      "actual": "平",
-      "hit": false
+      "home": "贝西克塔斯",
+      "away": "马赛",
+      "score": "4:1",
+      "pred": "主胜",
+      "actual": "主胜",
+      "hit": true
     },
     {
       "league": "欧罗巴联赛",
-      "home": "安德莱赫特",
-      "away": "里昂",
+      "home": "利勒斯特罗姆",
+      "away": "托林斯",
       "score": "1:2",
-      "pred": "平局",
+      "pred": "主胜",
       "actual": "客胜",
       "hit": false
     },
     {
-      "league": "英格兰联赛杯",
-      "home": "考文垂",
-      "away": "阿斯顿维拉",
+      "league": "西班牙甲级联赛",
+      "home": "马拉加",
+      "away": "比利亚雷亚尔",
       "score": "1:3",
       "pred": "客胜",
       "actual": "客胜",
@@ -166,29 +178,11 @@
     },
     {
       "league": "南美解放者杯",
-      "home": "基多体育大学",
-      "away": "帕尔梅拉斯",
-      "score": "3:2",
-      "pred": "客胜",
-      "actual": "主胜",
-      "hit": false
-    },
-    {
-      "league": "巴西甲级联赛",
-      "home": "博塔弗戈",
-      "away": "格雷米奥",
-      "score": "3:2",
+      "home": "弗拉门戈",
+      "away": "德尔瓦耶独立",
+      "score": "1:1",
       "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
-    },
-    {
-      "league": "南美解放者杯",
-      "home": "科林蒂安",
-      "away": "拉普拉塔大学生",
-      "score": "0:1",
-      "pred": "主胜",
-      "actual": "客胜",
+      "actual": "平",
       "hit": false
     }
   ],
@@ -239,6 +233,7 @@
     "20260729",
     "20260728",
     "20260727",
+    "2026-09-17",
     "2026-09-16",
     "2026-09-15",
     "2026-09-14",
