@@ -1,0 +1,126 @@
+{
+  "date": "2026-09-18",
+  "count": 13,
+  "hits": 6,
+  "avgConsensus": 46,
+  "details": [
+    {
+      "home": "沙特阿拉伯亚足",
+      "away": "卡塔尔亚足",
+      "league": "亚运会男足",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "赫尔辛基火花",
+      "away": "赫尔辛基",
+      "league": "芬兰超级联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "沃尔夫斯堡",
+      "away": "达姆施塔特",
+      "league": "德国乙级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "5:1",
+      "hit": true
+    },
+    {
+      "home": "萨尔普斯堡",
+      "away": "奥斯陆KFUM",
+      "league": "挪威超级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "1:3",
+      "hit": false
+    },
+    {
+      "home": "兰斯",
+      "away": "蒙彼利埃",
+      "league": "法国乙级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "格罗宁根",
+      "away": "兹沃勒",
+      "league": "荷兰甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:0",
+      "hit": true
+    },
+    {
+      "home": "登博思",
+      "away": "海尔蒙特",
+      "league": "荷兰乙级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "蒙扎",
+      "away": "萨索洛",
+      "league": "意大利甲级联赛",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": false
+    },
+    {
+      "home": "摩纳哥",
+      "away": "朗斯",
+      "league": "法国甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "布伦特福德",
+      "away": "切尔西",
+      "league": "英格兰超级联赛",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "3:0",
+      "hit": false
+    },
+    {
+      "home": "布里斯托尔城",
+      "away": "沃特福德",
+      "league": "英格兰冠军联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "西班牙人",
+      "away": "埃尔切",
+      "league": "西班牙甲级联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "1:3",
+      "hit": false
+    },
+    {
+      "home": "纽约城",
+      "away": "纽约红牛",
+      "league": "美国职业大联盟",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
