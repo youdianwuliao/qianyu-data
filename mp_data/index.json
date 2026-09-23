@@ -1,99 +1,58 @@
 {
-  "date": "20260922",
-  "updated_at": "2026-09-22 12:19",
+  "date": "20260923",
+  "updated_at": "2026-09-23 12:18",
   "matches": [
     {
       "league": "亚运男足",
-      "home": "韩国亚",
-      "away": "沙特亚",
+      "home": "中国亚",
+      "away": "阿联酋亚",
       "pred": "主胜",
-      "consensus": 52
+      "consensus": 39
     },
     {
-      "league": "英锦标赛",
-      "home": "米尔顿",
-      "away": "克劳利",
+      "league": "美职",
+      "home": "西雅图",
+      "away": "盐湖城",
       "pred": "主胜",
-      "consensus": 46
-    },
-    {
-      "league": "英锦标赛",
-      "home": "维冈",
-      "away": "布莱克浦",
-      "pred": "主胜",
-      "consensus": 33
-    },
-    {
-      "league": "英锦标赛",
-      "home": "诺茨郡",
-      "away": "格里姆",
-      "pred": "主胜",
-      "consensus": 33
+      "consensus": 35
     }
   ],
   "reviews": [
     {
-      "league": "巴甲",
-      "home": "巴竞技",
-      "away": "巴伊亚",
-      "score": "2:1",
-      "hit": null
-    },
-    {
-      "league": "葡超",
-      "home": "波尔图",
-      "away": "本菲卡",
-      "score": "3:1",
-      "hit": null
-    },
-    {
-      "league": "西甲",
-      "home": "巴伦西亚",
-      "away": "皇家社会",
-      "score": "2:3",
-      "hit": null
-    },
-    {
-      "league": "法甲",
-      "home": "马赛",
-      "away": "巴黎圣曼",
-      "score": "1:2",
-      "hit": null
-    },
-    {
-      "league": "意甲",
-      "home": "AC米兰",
-      "away": "莱切",
-      "score": "3:0",
-      "hit": null
-    },
-    {
-      "league": "德甲",
-      "home": "帕德博恩",
-      "away": "霍芬海姆",
-      "score": "3:1",
-      "hit": null
-    },
-    {
-      "league": "西甲",
-      "home": "拉科",
-      "away": "贝蒂斯",
-      "score": "1:1",
-      "hit": null
-    },
-    {
-      "league": "西甲",
-      "home": "比利亚雷",
-      "away": "莱万特",
-      "score": "3:1",
-      "hit": null
-    },
-    {
-      "league": "意甲",
-      "home": "尤文图斯",
-      "away": "亚特兰大",
+      "league": "亚运会男足",
+      "home": "韩国亚运男足",
+      "away": "沙特阿拉伯亚足",
       "score": "2:0",
-      "hit": null
+      "pred": "主胜",
+      "actual": "主胜",
+      "hit": true
+    },
+    {
+      "league": "英格兰锦标赛",
+      "home": "米尔顿凯恩斯",
+      "away": "克劳利",
+      "score": "4:1",
+      "pred": "主胜",
+      "actual": "主胜",
+      "hit": true
+    },
+    {
+      "league": "英格兰锦标赛",
+      "home": "诺茨郡",
+      "away": "格里姆斯比",
+      "score": "2:1",
+      "pred": "主胜",
+      "actual": "主胜",
+      "hit": true
+    },
+    {
+      "league": "英格兰锦标赛",
+      "home": "维冈竞技",
+      "away": "布莱克浦",
+      "score": "3:2",
+      "pred": "主胜",
+      "actual": "主胜",
+      "hit": true
     }
   ],
   "history_dates": [
@@ -143,6 +102,7 @@
     "20260729",
     "20260728",
     "20260727",
+    "2026-09-22",
     "2026-09-20",
     "2026-09-19",
     "2026-09-18",
