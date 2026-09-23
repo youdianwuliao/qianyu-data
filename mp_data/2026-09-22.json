@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-22",
+  "count": 4,
+  "hits": 4,
+  "avgConsensus": 100,
+  "details": [
+    {
+      "home": "韩国亚运男足",
+      "away": "沙特阿拉伯亚足",
+      "league": "亚运会男足",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "米尔顿凯恩斯",
+      "away": "克劳利",
+      "league": "英格兰锦标赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:1",
+      "hit": true
+    },
+    {
+      "home": "诺茨郡",
+      "away": "格里姆斯比",
+      "league": "英格兰锦标赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "维冈竞技",
+      "away": "布莱克浦",
+      "league": "英格兰锦标赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:2",
+      "hit": true
+    }
+  ],
+  "summary": ""
+}
