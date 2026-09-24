@@ -1,61 +1,79 @@
 {
-  "date": "20260923",
-  "updated_at": "2026-09-23 12:18",
+  "date": "20260924",
+  "updated_at": "2026-09-24 12:18",
   "matches": [
     {
-      "league": "亚运男足",
-      "home": "中国亚",
-      "away": "阿联酋亚",
+      "league": "欧国联",
+      "home": "葡萄牙",
+      "away": "威尔士",
       "pred": "主胜",
-      "consensus": 39
+      "consensus": 59
     },
     {
-      "league": "美职",
-      "home": "西雅图",
-      "away": "盐湖城",
+      "league": "欧国联",
+      "home": "挪威",
+      "away": "丹麦",
       "pred": "主胜",
-      "consensus": 35
+      "consensus": 43
+    },
+    {
+      "league": "国际赛",
+      "home": "日本",
+      "away": "乌拉圭",
+      "pred": "主胜",
+      "consensus": 37
+    },
+    {
+      "league": "欧国联",
+      "home": "荷兰",
+      "away": "德国",
+      "pred": "主胜",
+      "consensus": 33
+    },
+    {
+      "league": "欧国联",
+      "home": "科索沃",
+      "away": "爱尔兰",
+      "pred": "主胜",
+      "consensus": 31
+    },
+    {
+      "league": "国际赛",
+      "home": "韩国",
+      "away": "厄瓜多尔",
+      "pred": "主胜",
+      "consensus": 31
+    },
+    {
+      "league": "欧国联",
+      "home": "塞尔维亚",
+      "away": "希腊",
+      "pred": "主胜",
+      "consensus": 29
     }
   ],
   "reviews": [
     {
-      "league": "亚运会男足",
-      "home": "韩国亚运男足",
-      "away": "沙特阿拉伯亚足",
-      "score": "2:0",
+      "league": "",
+      "home": "中国亚",
+      "away": "阿联酋亚",
+      "score": "0:0",
       "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
+      "actual": "",
+      "hit": false
     },
     {
-      "league": "英格兰锦标赛",
-      "home": "米尔顿凯恩斯",
-      "away": "克劳利",
-      "score": "4:1",
+      "league": "",
+      "home": "西雅图",
+      "away": "盐湖城",
+      "score": "?",
       "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
-    },
-    {
-      "league": "英格兰锦标赛",
-      "home": "诺茨郡",
-      "away": "格里姆斯比",
-      "score": "2:1",
-      "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
-    },
-    {
-      "league": "英格兰锦标赛",
-      "home": "维冈竞技",
-      "away": "布莱克浦",
-      "score": "3:2",
-      "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
+      "actual": "",
+      "hit": false
     }
   ],
   "history_dates": [
+    "20260923",
     "20260914",
     "20260912",
     "20260910",
@@ -102,6 +120,7 @@
     "20260729",
     "20260728",
     "20260727",
+    "2026-09-23",
     "2026-09-22",
     "2026-09-20",
     "2026-09-19",
@@ -168,17 +187,24 @@
     "2026-07-17"
   ],
   "game_stats": {
-    "total_days": 46,
+    "total_days": 47,
     "all_hit_days": 17,
-    "hit_rate": 60,
+    "hit_rate": 59,
     "today_pick": {
       "picks": [],
       "combo_odds": "?"
     },
     "yesterday_result": {
-      "picks": [],
+      "picks": [
+        {
+          "home": "中国亚",
+          "away": "阿联酋亚",
+          "hit": false,
+          "score": "0:0"
+        }
+      ],
       "hits": 0,
-      "count": 0
+      "count": 1
     }
   }
 }
