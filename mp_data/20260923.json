@@ -1,0 +1,23 @@
+{
+  "date": "20260923",
+  "count": 2,
+  "hits": 0,
+  "avgConsensus": 0,
+  "details": [
+    {
+      "home": "中国亚",
+      "away": "阿联酋亚",
+      "pred": "主胜",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "西雅图",
+      "away": "盐湖城",
+      "pred": "主胜",
+      "score": "?",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
