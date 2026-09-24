@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-23",
+  "count": 1,
+  "hits": 0,
+  "avgConsensus": 0,
+  "details": [
+    {
+      "home": "中国亚运男足",
+      "away": "阿联酋亚运男足",
+      "league": "亚运会男足",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
