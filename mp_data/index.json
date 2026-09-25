@@ -1,78 +1,152 @@
 {
-  "date": "20260924",
-  "updated_at": "2026-09-24 12:18",
+  "date": "20260925",
+  "updated_at": "2026-09-25 12:18",
   "matches": [
     {
-      "league": "欧国联",
-      "home": "葡萄牙",
-      "away": "威尔士",
+      "league": "亚运男足",
+      "home": "韩国亚",
+      "away": "越南亚",
       "pred": "主胜",
-      "consensus": 59
+      "consensus": 57
+    },
+    {
+      "league": "国际赛",
+      "home": "澳大利亚",
+      "away": "巴西",
+      "pred": "客胜",
+      "consensus": 54
     },
     {
       "league": "欧国联",
-      "home": "挪威",
-      "away": "丹麦",
-      "pred": "主胜",
-      "consensus": 43
+      "home": "土耳其",
+      "away": "法国",
+      "pred": "客胜",
+      "consensus": 52
     },
+    {
+      "league": "欧国联",
+      "home": "瑞典",
+      "away": "罗马尼亚",
+      "pred": "主胜",
+      "consensus": 48
+    },
+    {
+      "league": "欧国联",
+      "home": "波兰",
+      "away": "波黑",
+      "pred": "主胜",
+      "consensus": 44
+    },
+    {
+      "league": "荷乙",
+      "home": "多德勒支",
+      "away": "阿尔梅勒",
+      "pred": "客胜",
+      "consensus": 44
+    },
+    {
+      "league": "亚运男足",
+      "home": "乌兹别亚",
+      "away": "沙特亚",
+      "pred": "主胜",
+      "consensus": 44
+    },
+    {
+      "league": "欧国联",
+      "home": "黑山",
+      "away": "塞浦路斯",
+      "pred": "主胜",
+      "consensus": 41
+    },
+    {
+      "league": "欧国联",
+      "home": "亚美尼亚",
+      "away": "拉脱维亚",
+      "pred": "主胜",
+      "consensus": 40
+    },
+    {
+      "league": "欧国联",
+      "home": "格鲁吉亚",
+      "away": "北爱尔兰",
+      "pred": "主胜",
+      "consensus": 38
+    },
+    {
+      "league": "欧国联",
+      "home": "意大利",
+      "away": "比利时",
+      "pred": "主胜",
+      "consensus": 33
+    }
+  ],
+  "reviews": [
     {
       "league": "国际赛",
       "home": "日本",
       "away": "乌拉圭",
+      "score": "3:1",
       "pred": "主胜",
-      "consensus": 37
-    },
-    {
-      "league": "欧国联",
-      "home": "荷兰",
-      "away": "德国",
-      "pred": "主胜",
-      "consensus": 33
-    },
-    {
-      "league": "欧国联",
-      "home": "科索沃",
-      "away": "爱尔兰",
-      "pred": "主胜",
-      "consensus": 31
+      "actual": "主胜",
+      "hit": true
     },
     {
       "league": "国际赛",
       "home": "韩国",
       "away": "厄瓜多尔",
+      "score": "3:0",
       "pred": "主胜",
-      "consensus": 31
+      "actual": "主胜",
+      "hit": true
     },
     {
-      "league": "欧国联",
+      "league": "欧洲国家联赛",
+      "home": "科索沃",
+      "away": "爱尔兰",
+      "score": "1:0",
+      "pred": "主胜",
+      "actual": "主胜",
+      "hit": true
+    },
+    {
+      "league": "欧洲国家联赛",
+      "home": "葡萄牙",
+      "away": "威尔士",
+      "score": "1:0",
+      "pred": "主胜",
+      "actual": "主胜",
+      "hit": true
+    },
+    {
+      "league": "欧洲国家联赛",
+      "home": "荷兰",
+      "away": "德国",
+      "score": "1:1",
+      "pred": "主胜",
+      "actual": "平",
+      "hit": false
+    },
+    {
+      "league": "欧洲国家联赛",
       "home": "塞尔维亚",
       "away": "希腊",
+      "score": "1:2",
       "pred": "主胜",
-      "consensus": 29
-    }
-  ],
-  "reviews": [
-    {
-      "league": "",
-      "home": "中国亚",
-      "away": "阿联酋亚",
-      "score": "0:0",
-      "pred": "主胜",
-      "actual": "",
+      "actual": "客胜",
       "hit": false
     },
     {
-      "league": "",
-      "home": "西雅图",
-      "away": "盐湖城",
-      "score": "?",
+      "league": "欧洲国家联赛",
+      "home": "挪威",
+      "away": "丹麦",
+      "score": "3:2",
       "pred": "主胜",
-      "actual": "",
-      "hit": false
+      "actual": "主胜",
+      "hit": true
     }
   ],
   "history_dates": [
+    "20260924",
     "20260923",
     "20260914",
     "20260912",
@@ -120,6 +194,7 @@
     "20260729",
     "20260728",
     "20260727",
+    "2026-09-24",
     "2026-09-23",
     "2026-09-22",
     "2026-09-20",
@@ -187,8 +262,8 @@
     "2026-07-17"
   ],
   "game_stats": {
-    "total_days": 47,
-    "all_hit_days": 17,
+    "total_days": 48,
+    "all_hit_days": 18,
     "hit_rate": 59,
     "today_pick": {
       "picks": [],
@@ -197,14 +272,20 @@
     "yesterday_result": {
       "picks": [
         {
-          "home": "中国亚",
-          "away": "阿联酋亚",
-          "hit": false,
-          "score": "0:0"
+          "home": "葡萄牙",
+          "away": "威尔士",
+          "hit": true,
+          "score": "1:0"
+        },
+        {
+          "home": "挪威",
+          "away": "丹麦",
+          "hit": true,
+          "score": "3:2"
         }
       ],
-      "hits": 0,
-      "count": 1
+      "hits": 2,
+      "count": 2
     }
   }
 }
