@@ -1,0 +1,72 @@
+{
+  "date": "20260924",
+  "count": 7,
+  "hits": 5,
+  "avgConsensus": 71,
+  "details": [
+    {
+      "home": "日本",
+      "away": "乌拉圭",
+      "league": "国际赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": true
+    },
+    {
+      "home": "韩国",
+      "away": "厄瓜多尔",
+      "league": "国际赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:0",
+      "hit": true
+    },
+    {
+      "home": "科索沃",
+      "away": "爱尔兰",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "葡萄牙",
+      "away": "威尔士",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "荷兰",
+      "away": "德国",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "塞尔维亚",
+      "away": "希腊",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": false
+    },
+    {
+      "home": "挪威",
+      "away": "丹麦",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:2",
+      "hit": true
+    }
+  ],
+  "summary": "⚽ 昨日精选复盘 | 09月23日 | ❌ 未中（1场待完赛） | ❌ 中国亚 vs 阿联酋亚"
+}
