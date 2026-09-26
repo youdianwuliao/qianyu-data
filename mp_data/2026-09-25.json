@@ -1,0 +1,108 @@
+{
+  "date": "2026-09-25",
+  "count": 11,
+  "hits": 6,
+  "avgConsensus": 55,
+  "details": [
+    {
+      "home": "乌兹别克亚运男足",
+      "away": "沙特阿拉伯亚足",
+      "league": "亚运会男足",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:0",
+      "hit": true
+    },
+    {
+      "home": "澳大利亚",
+      "away": "巴西",
+      "league": "国际赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "韩国亚运男足",
+      "away": "越南亚运男足",
+      "league": "亚运会男足",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:0",
+      "hit": true
+    },
+    {
+      "home": "格鲁吉亚",
+      "away": "北爱尔兰",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
+    },
+    {
+      "home": "亚美尼亚",
+      "away": "拉脱维亚",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "意大利",
+      "away": "比利时",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": false
+    },
+    {
+      "home": "黑山",
+      "away": "塞浦路斯",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "波兰",
+      "away": "波黑",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "土耳其",
+      "away": "法国",
+      "league": "欧洲国家联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": true
+    },
+    {
+      "home": "瑞典",
+      "away": "罗马尼亚",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "多德勒支",
+      "away": "阿尔梅勒城",
+      "league": "荷兰乙级联赛",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "3:2",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
