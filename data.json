@@ -1,263 +1,238 @@
 {
-  "date": "20260927",
-  "updated_at": "2026-09-27 12:19",
+  "date": "20260928",
+  "updated_at": "2026-09-28 12:18",
   "matches": [
     {
-      "league": "欧国联",
-      "home": "德国",
-      "away": "希腊",
+      "league": "国际赛",
+      "home": "日本",
+      "away": "委内瑞拉",
       "pred": "主胜",
-      "consensus": 50
+      "consensus": 57
     },
     {
       "league": "欧国联",
-      "home": "丹麦",
-      "away": "威尔士",
-      "pred": "主胜",
-      "consensus": 49
-    },
-    {
-      "league": "欧国联",
-      "home": "奥地利",
-      "away": "科索沃",
-      "pred": "主胜",
-      "consensus": 47
-    },
-    {
-      "league": "欧国联",
-      "home": "塞尔维亚",
-      "away": "荷兰",
+      "home": "比利时",
+      "away": "法国",
       "pred": "客胜",
-      "consensus": 46
-    },
-    {
-      "league": "美职",
-      "home": "哥伦布",
-      "away": "迈国际",
-      "pred": "客胜",
-      "consensus": 42
-    },
-    {
-      "league": "荷乙",
-      "home": "格拉夫",
-      "away": "登博思",
-      "pred": "主胜",
       "consensus": 38
     },
     {
-      "league": "国际赛",
-      "home": "中国",
-      "away": "新西兰",
-      "pred": "客胜",
-      "consensus": 34
-    },
-    {
-      "league": "韩职",
-      "home": "江原FC",
-      "away": "仁川联",
+      "league": "欧国联",
+      "home": "瑞典",
+      "away": "波兰",
       "pred": "主胜",
-      "consensus": 33
+      "consensus": 36
     },
     {
       "league": "欧国联",
-      "home": "挪威",
-      "away": "葡萄牙",
+      "home": "罗马尼亚",
+      "away": "波黑",
       "pred": "主胜",
+      "consensus": 35
+    },
+    {
+      "league": "欧国联",
+      "home": "土耳其",
+      "away": "意大利",
+      "pred": "客胜",
+      "consensus": 31
+    },
+    {
+      "league": "欧国联",
+      "home": "亚美尼亚",
+      "away": "黑山",
+      "pred": "客胜",
       "consensus": 30
+    },
+    {
+      "league": "国际赛",
+      "home": "韩国",
+      "away": "乌拉圭",
+      "pred": "主胜",
+      "consensus": 29
+    },
+    {
+      "league": "欧国联",
+      "home": "北爱尔兰",
+      "away": "匈牙利",
+      "pred": "客胜",
+      "consensus": 29
     }
   ],
   "reviews": [
     {
-      "league": "亚运会男足",
-      "home": "中国亚运男足",
-      "away": "泰国亚运男足",
-      "score": "3:0",
-      "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
-    },
-    {
-      "league": "日本乙级联赛",
-      "home": "磐城FC",
-      "away": "仙台七夕",
-      "score": "0:2",
-      "pred": "平局",
-      "actual": "客胜",
-      "hit": false
-    },
-    {
-      "league": "日本乙级联赛",
-      "home": "富山胜利",
-      "away": "横滨FC",
-      "score": "3:3",
-      "pred": "客胜",
-      "actual": "平",
-      "hit": false
-    },
-    {
-      "league": "日本乙级联赛",
-      "home": "秋田蓝色闪电",
-      "away": "新潟天鹅",
-      "score": "2:2",
-      "pred": "主胜",
-      "actual": "平",
-      "hit": false
-    },
-    {
-      "league": "日本乙级联赛",
-      "home": "大宫松鼠RB",
-      "away": "甲府风林",
-      "score": "5:1",
-      "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
-    },
-    {
-      "league": "日本乙级联赛",
-      "home": "大分三神",
-      "away": "藤枝MYFC",
-      "score": "1:1",
-      "pred": "平局",
-      "actual": "平",
-      "hit": false
-    },
-    {
-      "league": "亚运会男足",
-      "home": "日本亚足",
-      "away": "朝鲜亚运男足",
-      "score": "1:0",
-      "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
-    },
-    {
-      "league": "欧洲国家联赛",
-      "home": "斯洛文尼亚",
-      "away": "苏格兰",
+      "league": "韩国职业联赛",
+      "home": "江原FC",
+      "away": "仁川联",
       "score": "0:0",
       "pred": "主胜",
       "actual": "平",
       "hit": false
     },
     {
-      "league": "荷兰乙级联赛",
-      "home": "赫拉克勒斯",
-      "away": "维迪斯",
-      "score": "2:0",
-      "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
-    },
-    {
-      "league": "欧洲国家联赛",
-      "home": "法罗群岛",
-      "away": "哈萨克斯坦",
-      "score": "1:1",
-      "pred": "主胜",
-      "actual": "平",
-      "hit": false
-    },
-    {
-      "league": "欧洲国家联赛",
-      "home": "冰岛",
-      "away": "爱沙尼亚",
-      "score": "1:1",
-      "pred": "主胜",
-      "actual": "平",
-      "hit": false
-    },
-    {
-      "league": "欧洲国家联赛",
-      "home": "保加利亚",
-      "away": "卢森堡",
-      "score": "1:2",
-      "pred": "主胜",
-      "actual": "客胜",
-      "hit": false
-    },
-    {
-      "league": "荷兰乙级联赛",
-      "home": "罗达JC",
-      "away": "瓦尔韦克",
-      "score": "2:0",
-      "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
-    },
-    {
-      "league": "欧洲国家联赛",
-      "home": "捷克",
-      "away": "克罗地亚",
-      "score": "1:2",
-      "pred": "客胜",
-      "actual": "客胜",
-      "hit": true
-    },
-    {
-      "league": "欧洲国家联赛",
-      "home": "北马其顿",
-      "away": "瑞士",
+      "league": "国际赛",
+      "home": "中国",
+      "away": "新西兰",
       "score": "0:3",
       "pred": "客胜",
       "actual": "客胜",
       "hit": true
     },
     {
+      "league": "荷兰乙级联赛",
+      "home": "格拉夫夏普",
+      "away": "登博思",
+      "score": "1:0",
+      "pred": "主胜",
+      "actual": "主胜",
+      "hit": true
+    },
+    {
       "league": "欧洲国家联赛",
-      "home": "英格兰",
-      "away": "西班牙",
-      "score": "2:3",
-      "pred": "平局",
-      "actual": "客胜",
-      "hit": false
-    },
-    {
-      "league": "国际赛",
-      "home": "美国",
-      "away": "秘鲁",
-      "score": "4:1",
-      "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
-    },
-    {
-      "league": "国际赛",
-      "home": "加拿大",
-      "away": "智利",
-      "score": "1:0",
-      "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
-    },
-    {
-      "league": "美国职业大联盟",
-      "home": "费城联合",
-      "away": "奥兰多城",
-      "score": "4:2",
-      "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
-    },
-    {
-      "league": "美国职业大联盟",
-      "home": "达拉斯FC",
-      "away": "洛杉矶FC",
-      "score": "1:0",
-      "pred": "主胜",
-      "actual": "主胜",
-      "hit": true
-    },
-    {
-      "league": "美国职业大联盟",
-      "home": "纳什维尔",
-      "away": "多伦多FC",
+      "home": "丹麦",
+      "away": "威尔士",
       "score": "2:0",
       "pred": "主胜",
       "actual": "主胜",
       "hit": true
+    },
+    {
+      "league": "欧洲国家联赛",
+      "home": "塞尔维亚",
+      "away": "荷兰",
+      "score": "1:2",
+      "pred": "客胜",
+      "actual": "客胜",
+      "hit": true
+    },
+    {
+      "league": "欧洲国家联赛",
+      "home": "奥地利",
+      "away": "科索沃",
+      "score": "3:1",
+      "pred": "主胜",
+      "actual": "主胜",
+      "hit": true
+    },
+    {
+      "league": "欧洲国家联赛",
+      "home": "德国",
+      "away": "希腊",
+      "score": "0:1",
+      "pred": "主胜",
+      "actual": "客胜",
+      "hit": false
+    },
+    {
+      "league": "欧洲国家联赛",
+      "home": "挪威",
+      "away": "葡萄牙",
+      "score": "1:2",
+      "pred": "主胜",
+      "actual": "客胜",
+      "hit": false
+    },
+    {
+      "league": "美国职业大联盟",
+      "home": "哥伦布机员",
+      "away": "迈阿密国际",
+      "score": "2:1",
+      "pred": "客胜",
+      "actual": "主胜",
+      "hit": false
     }
   ],
   "history": [
+    {
+      "date": "20260927",
+      "count": 9,
+      "hits": 5,
+      "avgConsensus": 56,
+      "details": [
+        {
+          "home": "江原FC",
+          "away": "仁川联",
+          "league": "韩国职业联赛",
+          "pred": "主胜",
+          "actual": "平",
+          "score": "0:0",
+          "hit": false
+        },
+        {
+          "home": "中国",
+          "away": "新西兰",
+          "league": "国际赛",
+          "pred": "客胜",
+          "actual": "客胜",
+          "score": "0:3",
+          "hit": true
+        },
+        {
+          "home": "格拉夫夏普",
+          "away": "登博思",
+          "league": "荷兰乙级联赛",
+          "pred": "主胜",
+          "actual": "主胜",
+          "score": "1:0",
+          "hit": true
+        },
+        {
+          "home": "丹麦",
+          "away": "威尔士",
+          "league": "欧洲国家联赛",
+          "pred": "主胜",
+          "actual": "主胜",
+          "score": "2:0",
+          "hit": true
+        },
+        {
+          "home": "塞尔维亚",
+          "away": "荷兰",
+          "league": "欧洲国家联赛",
+          "pred": "客胜",
+          "actual": "客胜",
+          "score": "1:2",
+          "hit": true
+        },
+        {
+          "home": "奥地利",
+          "away": "科索沃",
+          "league": "欧洲国家联赛",
+          "pred": "主胜",
+          "actual": "主胜",
+          "score": "3:1",
+          "hit": true
+        },
+        {
+          "home": "德国",
+          "away": "希腊",
+          "league": "欧洲国家联赛",
+          "pred": "主胜",
+          "actual": "客胜",
+          "score": "0:1",
+          "hit": false
+        },
+        {
+          "home": "挪威",
+          "away": "葡萄牙",
+          "league": "欧洲国家联赛",
+          "pred": "主胜",
+          "actual": "客胜",
+          "score": "1:2",
+          "hit": false
+        },
+        {
+          "home": "哥伦布机员",
+          "away": "迈阿密国际",
+          "league": "美国职业大联盟",
+          "pred": "客胜",
+          "actual": "主胜",
+          "score": "2:1",
+          "hit": false
+        }
+      ],
+      "summary": ""
+    },
     {
       "date": "20260925",
       "count": 11,
@@ -5335,6 +5310,96 @@
           "away": "索尔纳",
           "pred": "",
           "score": "",
+          "hit": false
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "date": "2026-09-27",
+      "count": 9,
+      "hits": 5,
+      "avgConsensus": 56,
+      "details": [
+        {
+          "home": "江原FC",
+          "away": "仁川联",
+          "league": "韩国职业联赛",
+          "pred": "主胜",
+          "actual": "平",
+          "score": "0:0",
+          "hit": false
+        },
+        {
+          "home": "中国",
+          "away": "新西兰",
+          "league": "国际赛",
+          "pred": "客胜",
+          "actual": "客胜",
+          "score": "0:3",
+          "hit": true
+        },
+        {
+          "home": "格拉夫夏普",
+          "away": "登博思",
+          "league": "荷兰乙级联赛",
+          "pred": "主胜",
+          "actual": "主胜",
+          "score": "1:0",
+          "hit": true
+        },
+        {
+          "home": "丹麦",
+          "away": "威尔士",
+          "league": "欧洲国家联赛",
+          "pred": "主胜",
+          "actual": "主胜",
+          "score": "2:0",
+          "hit": true
+        },
+        {
+          "home": "塞尔维亚",
+          "away": "荷兰",
+          "league": "欧洲国家联赛",
+          "pred": "客胜",
+          "actual": "客胜",
+          "score": "1:2",
+          "hit": true
+        },
+        {
+          "home": "奥地利",
+          "away": "科索沃",
+          "league": "欧洲国家联赛",
+          "pred": "主胜",
+          "actual": "主胜",
+          "score": "3:1",
+          "hit": true
+        },
+        {
+          "home": "德国",
+          "away": "希腊",
+          "league": "欧洲国家联赛",
+          "pred": "主胜",
+          "actual": "客胜",
+          "score": "0:1",
+          "hit": false
+        },
+        {
+          "home": "挪威",
+          "away": "葡萄牙",
+          "league": "欧洲国家联赛",
+          "pred": "主胜",
+          "actual": "客胜",
+          "score": "1:2",
+          "hit": false
+        },
+        {
+          "home": "哥伦布机员",
+          "away": "迈阿密国际",
+          "league": "美国职业大联盟",
+          "pred": "客胜",
+          "actual": "主胜",
+          "score": "2:1",
           "hit": false
         }
       ],
