@@ -1,0 +1,90 @@
+{
+  "date": "20260927",
+  "count": 9,
+  "hits": 5,
+  "avgConsensus": 56,
+  "details": [
+    {
+      "home": "江原FC",
+      "away": "仁川联",
+      "league": "韩国职业联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "中国",
+      "away": "新西兰",
+      "league": "国际赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:3",
+      "hit": true
+    },
+    {
+      "home": "格拉夫夏普",
+      "away": "登博思",
+      "league": "荷兰乙级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "丹麦",
+      "away": "威尔士",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "塞尔维亚",
+      "away": "荷兰",
+      "league": "欧洲国家联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": true
+    },
+    {
+      "home": "奥地利",
+      "away": "科索沃",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": true
+    },
+    {
+      "home": "德国",
+      "away": "希腊",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
+    },
+    {
+      "home": "挪威",
+      "away": "葡萄牙",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": false
+    },
+    {
+      "home": "哥伦布机员",
+      "away": "迈阿密国际",
+      "league": "美国职业大联盟",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
