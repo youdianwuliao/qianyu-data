@@ -1,0 +1,81 @@
+{
+  "date": "20260928",
+  "count": 8,
+  "hits": 5,
+  "avgConsensus": 62,
+  "details": [
+    {
+      "home": "日本",
+      "away": "委内瑞拉",
+      "league": "国际赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "韩国",
+      "away": "乌拉圭",
+      "league": "国际赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "1:4",
+      "hit": false
+    },
+    {
+      "home": "亚美尼亚",
+      "away": "黑山",
+      "league": "欧洲国家联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "2:3",
+      "hit": true
+    },
+    {
+      "home": "土耳其",
+      "away": "意大利",
+      "league": "欧洲国家联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "1:4",
+      "hit": true
+    },
+    {
+      "home": "比利时",
+      "away": "法国",
+      "league": "欧洲国家联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": true
+    },
+    {
+      "home": "罗马尼亚",
+      "away": "波黑",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "2:4",
+      "hit": false
+    },
+    {
+      "home": "瑞典",
+      "away": "波兰",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": true
+    },
+    {
+      "home": "北爱尔兰",
+      "away": "匈牙利",
+      "league": "欧洲国家联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    }
+  ],
+  "summary": "⚽ 昨日精选复盘 | 09月27日 | ❌ 未中 | ❌ 德国 vs 希腊"
+}
