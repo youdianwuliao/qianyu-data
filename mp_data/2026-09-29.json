@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-29",
+  "count": 15,
+  "hits": 12,
+  "avgConsensus": 80,
+  "details": [
+    {
+      "home": "朝鲜女足",
+      "away": "中国女足",
+      "league": "亚运会女足",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "澳大利亚",
+      "away": "巴西",
+      "league": "国际赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "2:4",
+      "hit": true
+    },
+    {
+      "home": "藤枝MYFC",
+      "away": "大阪樱花",
+      "league": "日本联赛杯",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": true
+    },
+    {
+      "home": "枥木城",
+      "away": "广岛三箭",
+      "league": "日本联赛杯",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": true
+    },
+    {
+      "home": "富山胜利",
+      "away": "浦和红钻",
+      "league": "日本联赛杯",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "2:3",
+      "hit": true
+    },
+    {
+      "home": "山形山神",
+      "away": "横滨水手",
+      "league": "日本联赛杯",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": true
+    },
+    {
+      "home": "日本女足",
+      "away": "韩国女足",
+      "league": "亚运会女足",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "苏格兰",
+      "away": "瑞士",
+      "league": "欧洲国家联赛",
+      "pred": "平局",
+      "actual": "客胜",
+      "score": "0:3",
+      "hit": false
+    },
+    {
+      "home": "捷克",
+      "away": "英格兰",
+      "league": "欧洲国家联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": true
+    },
+    {
+      "home": "斯洛文尼亚",
+      "away": "北马其顿",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "斯洛伐克",
+      "away": "哈萨克斯坦",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "卢森堡",
+      "away": "冰岛",
+      "league": "欧洲国家联赛",
+      "pred": "平局",
+      "actual": "客胜",
+      "score": "0:3",
+      "hit": false
+    },
+    {
+      "home": "西班牙",
+      "away": "克罗地亚",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:1",
+      "hit": true
+    },
+    {
+      "home": "保加利亚",
+      "away": "爱沙尼亚",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "美国",
+      "away": "智利",
+      "league": "国际赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:2",
+      "hit": true
+    }
+  ],
+  "summary": ""
+}
