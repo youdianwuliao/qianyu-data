@@ -1,188 +1,161 @@
 {
-  "date": "20260929",
-  "updated_at": "2026-09-29 12:18",
+  "date": "20260930",
+  "updated_at": "2026-09-30 12:19",
   "matches": [
     {
-      "league": "亚运女足",
-      "home": "日本女",
-      "away": "韩国女",
+      "league": "亚运男足",
+      "home": "韩国亚",
+      "away": "中国亚",
       "pred": "主胜",
       "consensus": 57
     },
     {
-      "league": "日联赛杯",
-      "home": "枥木城",
-      "away": "广岛三箭",
+      "league": "亚运男足",
+      "home": "乌兹别亚",
+      "away": "日本亚",
       "pred": "客胜",
-      "consensus": 56
-    },
-    {
-      "league": "欧国联",
-      "home": "西班牙",
-      "away": "克罗地亚",
-      "pred": "主胜",
-      "consensus": 55
-    },
-    {
-      "league": "欧国联",
-      "home": "捷克",
-      "away": "英格兰",
-      "pred": "客胜",
-      "consensus": 54
-    },
-    {
-      "league": "欧国联",
-      "home": "斯洛伐克",
-      "away": "哈萨克",
-      "pred": "主胜",
-      "consensus": 54
-    },
-    {
-      "league": "国际赛",
-      "home": "澳大利亚",
-      "away": "巴西",
-      "pred": "客胜",
-      "consensus": 52
-    },
-    {
-      "league": "国际赛",
-      "home": "美国",
-      "away": "智利",
-      "pred": "主胜",
-      "consensus": 47
-    },
-    {
-      "league": "亚运女足",
-      "home": "朝鲜女",
-      "away": "中国女",
-      "pred": "主胜",
-      "consensus": 45
-    },
-    {
-      "league": "日联赛杯",
-      "home": "藤枝MYFC",
-      "away": "大阪樱花",
-      "pred": "客胜",
-      "consensus": 45
-    },
-    {
-      "league": "日联赛杯",
-      "home": "山形山神",
-      "away": "横滨水手",
-      "pred": "客胜",
-      "consensus": 45
-    },
-    {
-      "league": "欧国联",
-      "home": "斯洛文尼",
-      "away": "北马其顿",
-      "pred": "主胜",
-      "consensus": 44
-    },
-    {
-      "league": "欧国联",
-      "home": "保加利亚",
-      "away": "爱沙尼亚",
-      "pred": "主胜",
       "consensus": 43
-    },
-    {
-      "league": "日联赛杯",
-      "home": "富山胜利",
-      "away": "浦和红钻",
-      "pred": "客胜",
-      "consensus": 40
-    },
-    {
-      "league": "欧国联",
-      "home": "苏格兰",
-      "away": "瑞士",
-      "pred": "平局",
-      "consensus": 36
-    },
-    {
-      "league": "欧国联",
-      "home": "卢森堡",
-      "away": "冰岛",
-      "pred": "平局",
-      "consensus": 34
     }
   ],
   "reviews": [
     {
-      "league": "国际赛",
-      "home": "日本",
-      "away": "委内瑞拉",
-      "score": "2:1",
+      "league": "亚运会女足",
+      "home": "朝鲜女足",
+      "away": "中国女足",
+      "score": "2:0",
       "pred": "主胜",
       "actual": "主胜",
       "hit": true
     },
     {
       "league": "国际赛",
-      "home": "韩国",
-      "away": "乌拉圭",
-      "score": "1:4",
-      "pred": "主胜",
+      "home": "澳大利亚",
+      "away": "巴西",
+      "score": "2:4",
+      "pred": "客胜",
       "actual": "客胜",
-      "hit": false
+      "hit": true
     },
     {
-      "league": "欧洲国家联赛",
-      "home": "亚美尼亚",
-      "away": "黑山",
+      "league": "日本联赛杯",
+      "home": "藤枝MYFC",
+      "away": "大阪樱花",
+      "score": "1:2",
+      "pred": "客胜",
+      "actual": "客胜",
+      "hit": true
+    },
+    {
+      "league": "日本联赛杯",
+      "home": "枥木城",
+      "away": "广岛三箭",
+      "score": "0:2",
+      "pred": "客胜",
+      "actual": "客胜",
+      "hit": true
+    },
+    {
+      "league": "日本联赛杯",
+      "home": "富山胜利",
+      "away": "浦和红钻",
       "score": "2:3",
       "pred": "客胜",
       "actual": "客胜",
       "hit": true
     },
     {
-      "league": "欧洲国家联赛",
-      "home": "土耳其",
-      "away": "意大利",
-      "score": "1:4",
+      "league": "日本联赛杯",
+      "home": "山形山神",
+      "away": "横滨水手",
+      "score": "1:2",
       "pred": "客胜",
       "actual": "客胜",
       "hit": true
     },
     {
-      "league": "欧洲国家联赛",
-      "home": "比利时",
-      "away": "法国",
-      "score": "0:1",
-      "pred": "客胜",
-      "actual": "客胜",
-      "hit": true
-    },
-    {
-      "league": "欧洲国家联赛",
-      "home": "罗马尼亚",
-      "away": "波黑",
-      "score": "2:4",
-      "pred": "主胜",
-      "actual": "客胜",
-      "hit": false
-    },
-    {
-      "league": "欧洲国家联赛",
-      "home": "瑞典",
-      "away": "波兰",
-      "score": "3:1",
+      "league": "亚运会女足",
+      "home": "日本女足",
+      "away": "韩国女足",
+      "score": "2:0",
       "pred": "主胜",
       "actual": "主胜",
       "hit": true
     },
     {
       "league": "欧洲国家联赛",
-      "home": "北爱尔兰",
-      "away": "匈牙利",
-      "score": "0:0",
+      "home": "苏格兰",
+      "away": "瑞士",
+      "score": "0:3",
+      "pred": "平局",
+      "actual": "客胜",
+      "hit": false
+    },
+    {
+      "league": "欧洲国家联赛",
+      "home": "捷克",
+      "away": "英格兰",
+      "score": "0:2",
       "pred": "客胜",
+      "actual": "客胜",
+      "hit": true
+    },
+    {
+      "league": "欧洲国家联赛",
+      "home": "斯洛文尼亚",
+      "away": "北马其顿",
+      "score": "2:0",
+      "pred": "主胜",
+      "actual": "主胜",
+      "hit": true
+    },
+    {
+      "league": "欧洲国家联赛",
+      "home": "斯洛伐克",
+      "away": "哈萨克斯坦",
+      "score": "2:1",
+      "pred": "主胜",
+      "actual": "主胜",
+      "hit": true
+    },
+    {
+      "league": "欧洲国家联赛",
+      "home": "卢森堡",
+      "away": "冰岛",
+      "score": "0:3",
+      "pred": "平局",
+      "actual": "客胜",
+      "hit": false
+    },
+    {
+      "league": "欧洲国家联赛",
+      "home": "西班牙",
+      "away": "克罗地亚",
+      "score": "4:1",
+      "pred": "主胜",
+      "actual": "主胜",
+      "hit": true
+    },
+    {
+      "league": "欧洲国家联赛",
+      "home": "保加利亚",
+      "away": "爱沙尼亚",
+      "score": "0:0",
+      "pred": "主胜",
       "actual": "平",
       "hit": false
+    },
+    {
+      "league": "国际赛",
+      "home": "美国",
+      "away": "智利",
+      "score": "4:2",
+      "pred": "主胜",
+      "actual": "主胜",
+      "hit": true
     }
   ],
   "history_dates": [
+    "20260929",
     "20260928",
     "20260927",
     "20260925",
@@ -234,6 +207,7 @@
     "20260729",
     "20260728",
     "20260727",
+    "2026-09-29",
     "2026-09-28",
     "2026-09-27",
     "2026-09-26",
@@ -306,9 +280,9 @@
     "2026-07-17"
   ],
   "game_stats": {
-    "total_days": 51,
-    "all_hit_days": 19,
-    "hit_rate": 60,
+    "total_days": 52,
+    "all_hit_days": 20,
+    "hit_rate": 61,
     "today_pick": {
       "picks": [],
       "combo_odds": "?"
@@ -316,16 +290,16 @@
     "yesterday_result": {
       "picks": [
         {
-          "home": "日本",
-          "away": "委内瑞拉",
+          "home": "日本女",
+          "away": "韩国女",
           "hit": true,
-          "score": "2:1"
+          "score": "2:0"
         },
         {
-          "home": "比利时",
-          "away": "法国",
+          "home": "枥木城",
+          "away": "广岛三箭",
           "hit": true,
-          "score": "0:1"
+          "score": "0:2"
         }
       ],
       "hits": 2,
