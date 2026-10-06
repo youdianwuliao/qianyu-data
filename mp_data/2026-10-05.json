@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-05",
+  "count": 7,
+  "hits": 4,
+  "avgConsensus": 57,
+  "details": [
+    {
+      "home": "塞浦路斯",
+      "away": "拉脱维亚",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "法国",
+      "away": "比利时",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:1",
+      "hit": true
+    },
+    {
+      "home": "罗马尼亚",
+      "away": "瑞典",
+      "league": "欧洲国家联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": true
+    },
+    {
+      "home": "意大利",
+      "away": "土耳其",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": true
+    },
+    {
+      "home": "北爱尔兰",
+      "away": "格鲁吉亚",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "黑山",
+      "away": "亚美尼亚",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "波黑",
+      "away": "波兰",
+      "league": "欧洲国家联赛",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
