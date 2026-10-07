@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-06",
+  "count": 10,
+  "hits": 3,
+  "avgConsensus": 30,
+  "details": [
+    {
+      "home": "韩国",
+      "away": "乌兹别克斯坦",
+      "league": "国际赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:0",
+      "hit": true
+    },
+    {
+      "home": "中国",
+      "away": "塔吉克斯坦",
+      "league": "国际赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:1",
+      "hit": false
+    },
+    {
+      "home": "哈萨克斯坦",
+      "away": "法罗群岛",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "2:2",
+      "hit": false
+    },
+    {
+      "home": "爱沙尼亚",
+      "away": "冰岛",
+      "league": "欧洲国家联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "卢森堡",
+      "away": "保加利亚",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "0:2",
+      "hit": false
+    },
+    {
+      "home": "苏格兰",
+      "away": "斯洛文尼亚",
+      "league": "欧洲国家联赛",
+      "pred": "主胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": false
+    },
+    {
+      "home": "克罗地亚",
+      "away": "西班牙",
+      "league": "欧洲国家联赛",
+      "pred": "客胜",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": true
+    },
+    {
+      "home": "摩尔多瓦",
+      "away": "斯洛伐克",
+      "league": "欧洲国家联赛",
+      "pred": "平局",
+      "actual": "客胜",
+      "score": "0:4",
+      "hit": false
+    },
+    {
+      "home": "美国",
+      "away": "加拿大",
+      "league": "国际赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "1:0",
+      "hit": true
+    },
+    {
+      "home": "芝加哥火焰",
+      "away": "温哥华白帽",
+      "league": "美国职业大联盟",
+      "pred": "客胜",
+      "actual": "主胜",
+      "score": "3:1",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
