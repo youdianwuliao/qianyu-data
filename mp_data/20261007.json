@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-07",
+  "count": 6,
+  "hits": 2,
+  "avgConsensus": 33,
+  "details": [
+    {
+      "home": "赫尔辛基火花",
+      "away": "国际图尔库",
+      "league": "芬兰超级联赛",
+      "pred": "客胜",
+      "actual": "平",
+      "score": "0:0",
+      "hit": false
+    },
+    {
+      "home": "巴西国际",
+      "away": "科林蒂安",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "2:1",
+      "hit": true
+    },
+    {
+      "home": "里莫",
+      "away": "格雷米奥",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "布拉干蒂诺RB",
+      "away": "米拉索尔",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "平",
+      "score": "1:1",
+      "hit": false
+    },
+    {
+      "home": "维多利亚",
+      "away": "沙佩科恩斯",
+      "league": "巴西甲级联赛",
+      "pred": "主胜",
+      "actual": "主胜",
+      "score": "4:0",
+      "hit": true
+    },
+    {
+      "home": "博塔弗戈",
+      "away": "瓦斯科达伽马",
+      "league": "巴西甲级联赛",
+      "pred": "平局",
+      "actual": "客胜",
+      "score": "1:2",
+      "hit": false
+    }
+  ],
+  "summary": ""
+}
